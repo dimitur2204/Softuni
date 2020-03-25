@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.0\Character Sequence.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.0\Character Sequence.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.0\Character Sequence.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.0\Character Sequence.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.0\Character Sequence.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.0\Character Sequence.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.0\Character Sequence.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.0\Character Sequence.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.0\Character Sequence.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.0\Character Sequence.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.0\Character Sequence.pdb

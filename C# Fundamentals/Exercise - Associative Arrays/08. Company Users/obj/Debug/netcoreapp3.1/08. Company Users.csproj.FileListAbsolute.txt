@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.pdb

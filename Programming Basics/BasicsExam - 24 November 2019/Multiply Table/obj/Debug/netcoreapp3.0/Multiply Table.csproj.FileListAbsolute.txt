@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\bin\Debug\netcoreapp3.0\Multiply Table.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\bin\Debug\netcoreapp3.0\Multiply Table.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\bin\Debug\netcoreapp3.0\Multiply Table.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\bin\Debug\netcoreapp3.0\Multiply Table.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\bin\Debug\netcoreapp3.0\Multiply Table.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\bin\Debug\netcoreapp3.0\Multiply Table.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\obj\Debug\netcoreapp3.0\Multiply Table.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\obj\Debug\netcoreapp3.0\Multiply Table.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\obj\Debug\netcoreapp3.0\Multiply Table.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Multiply Table\obj\Debug\netcoreapp3.0\Multiply Table.pdb

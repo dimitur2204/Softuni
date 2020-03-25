@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\bin\Debug\netcoreapp3.0\Agency.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\bin\Debug\netcoreapp3.0\Agency.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\bin\Debug\netcoreapp3.0\Agency.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\bin\Debug\netcoreapp3.0\Agency.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\bin\Debug\netcoreapp3.0\Agency.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\bin\Debug\netcoreapp3.0\Agency.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\obj\Debug\netcoreapp3.0\Agency.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\obj\Debug\netcoreapp3.0\Agency.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\obj\Debug\netcoreapp3.0\Agency.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\obj\Debug\netcoreapp3.0\Agency.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\obj\Debug\netcoreapp3.0\Agency.pdb

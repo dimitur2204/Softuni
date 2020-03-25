@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\netcoreapp3.0\Sum of Two Numbers.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\netcoreapp3.0\Sum of Two Numbers.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\netcoreapp3.0\Sum of Two Numbers.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\netcoreapp3.0\Sum of Two Numbers.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\netcoreapp3.0\Sum of Two Numbers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\netcoreapp3.0\Sum of Two Numbers.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\netcoreapp3.0\Sum of Two Numbers.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\netcoreapp3.0\Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\netcoreapp3.0\Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\netcoreapp3.0\Sum of Two Numbers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\netcoreapp3.0\Sum of Two Numbers.pdb

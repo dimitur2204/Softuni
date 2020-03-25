@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\bin\Debug\netcoreapp3.1\3. Speed Racing.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\bin\Debug\netcoreapp3.1\3. Speed Racing.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\bin\Debug\netcoreapp3.1\3. Speed Racing.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\bin\Debug\netcoreapp3.1\3. Speed Racing.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\bin\Debug\netcoreapp3.1\3. Speed Racing.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\bin\Debug\netcoreapp3.1\3. Speed Racing.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\obj\Debug\netcoreapp3.1\3. Speed Racing.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\obj\Debug\netcoreapp3.1\3. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\obj\Debug\netcoreapp3.1\3. Speed Racing.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\obj\Debug\netcoreapp3.1\3. Speed Racing.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\3. Speed Racing\obj\Debug\netcoreapp3.1\3. Speed Racing.pdb

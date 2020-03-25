@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb

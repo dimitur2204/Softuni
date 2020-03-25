@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\bin\Debug\netcoreapp3.0\FootballТeamGenerator.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\bin\Debug\netcoreapp3.0\FootballТeamGenerator.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\bin\Debug\netcoreapp3.0\FootballТeamGenerator.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\bin\Debug\netcoreapp3.0\FootballТeamGenerator.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\bin\Debug\netcoreapp3.0\FootballТeamGenerator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\bin\Debug\netcoreapp3.0\FootballТeamGenerator.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\obj\Debug\netcoreapp3.0\FootballТeamGenerator.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\obj\Debug\netcoreapp3.0\FootballТeamGenerator.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\obj\Debug\netcoreapp3.0\FootballТeamGenerator.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\obj\Debug\netcoreapp3.0\FootballТeamGenerator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\FootballТeamGenerator\obj\Debug\netcoreapp3.0\FootballТeamGenerator.pdb

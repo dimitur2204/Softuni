@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.pdb

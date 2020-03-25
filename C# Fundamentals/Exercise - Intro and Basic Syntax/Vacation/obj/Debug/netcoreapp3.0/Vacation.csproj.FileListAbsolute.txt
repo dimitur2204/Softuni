@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\bin\Debug\netcoreapp3.0\Vacation.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\bin\Debug\netcoreapp3.0\Vacation.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\bin\Debug\netcoreapp3.0\Vacation.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\bin\Debug\netcoreapp3.0\Vacation.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\obj\Debug\netcoreapp3.0\Vacation.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\obj\Debug\netcoreapp3.0\Vacation.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Vacation\obj\Debug\netcoreapp3.0\Vacation.pdb

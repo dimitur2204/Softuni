@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.pdb

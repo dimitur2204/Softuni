@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.pdb

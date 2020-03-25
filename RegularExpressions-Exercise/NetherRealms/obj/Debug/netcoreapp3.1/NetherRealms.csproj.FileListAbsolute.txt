@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\bin\Debug\netcoreapp3.1\NetherRealms.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\bin\Debug\netcoreapp3.1\NetherRealms.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\bin\Debug\netcoreapp3.1\NetherRealms.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\bin\Debug\netcoreapp3.1\NetherRealms.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\bin\Debug\netcoreapp3.1\NetherRealms.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\bin\Debug\netcoreapp3.1\NetherRealms.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\obj\Debug\netcoreapp3.1\NetherRealms.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\obj\Debug\netcoreapp3.1\NetherRealms.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\obj\Debug\netcoreapp3.1\NetherRealms.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\NetherRealms\obj\Debug\netcoreapp3.1\NetherRealms.pdb

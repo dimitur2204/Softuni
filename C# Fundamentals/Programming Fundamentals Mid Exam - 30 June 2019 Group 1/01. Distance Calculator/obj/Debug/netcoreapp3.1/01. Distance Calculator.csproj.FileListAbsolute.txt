@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\bin\Debug\netcoreapp3.1\01. Distance Calculator.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\bin\Debug\netcoreapp3.1\01. Distance Calculator.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\bin\Debug\netcoreapp3.1\01. Distance Calculator.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\bin\Debug\netcoreapp3.1\01. Distance Calculator.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\bin\Debug\netcoreapp3.1\01. Distance Calculator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\bin\Debug\netcoreapp3.1\01. Distance Calculator.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\obj\Debug\netcoreapp3.1\01. Distance Calculator.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\obj\Debug\netcoreapp3.1\01. Distance Calculator.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\obj\Debug\netcoreapp3.1\01. Distance Calculator.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\obj\Debug\netcoreapp3.1\01. Distance Calculator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\01. Distance Calculator\obj\Debug\netcoreapp3.1\01. Distance Calculator.pdb

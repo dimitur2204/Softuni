@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\obj\Debug\netcoreapp3.0\Dance Hall.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\obj\Debug\netcoreapp3.0\Dance Hall.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\obj\Debug\netcoreapp3.0\Dance Hall.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\bin\Debug\netcoreapp3.0\Dance Hall.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\bin\Debug\netcoreapp3.0\Dance Hall.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\bin\Debug\netcoreapp3.0\Dance Hall.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\bin\Debug\netcoreapp3.0\Dance Hall.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\bin\Debug\netcoreapp3.0\Dance Hall.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\bin\Debug\netcoreapp3.0\Dance Hall.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\obj\Debug\netcoreapp3.0\Dance Hall.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Dance Hall\obj\Debug\netcoreapp3.0\Dance Hall.pdb

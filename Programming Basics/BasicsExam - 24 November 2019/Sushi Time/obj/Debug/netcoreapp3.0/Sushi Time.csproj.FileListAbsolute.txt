@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\bin\Debug\netcoreapp3.0\Sushi Time.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\bin\Debug\netcoreapp3.0\Sushi Time.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\bin\Debug\netcoreapp3.0\Sushi Time.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\bin\Debug\netcoreapp3.0\Sushi Time.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\bin\Debug\netcoreapp3.0\Sushi Time.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\bin\Debug\netcoreapp3.0\Sushi Time.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\obj\Debug\netcoreapp3.0\Sushi Time.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\obj\Debug\netcoreapp3.0\Sushi Time.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\obj\Debug\netcoreapp3.0\Sushi Time.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\obj\Debug\netcoreapp3.0\Sushi Time.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sushi Time\obj\Debug\netcoreapp3.0\Sushi Time.pdb

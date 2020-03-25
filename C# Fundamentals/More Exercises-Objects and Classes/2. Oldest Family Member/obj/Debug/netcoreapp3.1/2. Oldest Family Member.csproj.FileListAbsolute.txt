@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\bin\Debug\netcoreapp3.1\2. Oldest Family Member.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\bin\Debug\netcoreapp3.1\2. Oldest Family Member.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\bin\Debug\netcoreapp3.1\2. Oldest Family Member.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\bin\Debug\netcoreapp3.1\2. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\bin\Debug\netcoreapp3.1\2. Oldest Family Member.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\bin\Debug\netcoreapp3.1\2. Oldest Family Member.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\obj\Debug\netcoreapp3.1\2. Oldest Family Member.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\obj\Debug\netcoreapp3.1\2. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\obj\Debug\netcoreapp3.1\2. Oldest Family Member.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\obj\Debug\netcoreapp3.1\2. Oldest Family Member.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises-Objects and Classes\2. Oldest Family Member\obj\Debug\netcoreapp3.1\2. Oldest Family Member.pdb

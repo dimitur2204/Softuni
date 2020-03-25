@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.pdb

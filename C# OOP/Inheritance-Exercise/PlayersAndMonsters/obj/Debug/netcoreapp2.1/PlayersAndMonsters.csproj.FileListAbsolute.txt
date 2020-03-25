@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb

@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp3.0\Rage Expenses.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp3.0\Rage Expenses.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp3.0\Rage Expenses.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp3.0\Rage Expenses.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp3.0\Rage Expenses.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp3.0\Rage Expenses.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp3.0\Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp3.0\Rage Expenses.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp3.0\Rage Expenses.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp3.0\Rage Expenses.pdb

@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.pdb

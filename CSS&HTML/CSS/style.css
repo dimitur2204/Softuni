@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.content{
+    width: 1170px;
+    margin: auto;
+}
+header{
+    background-color: #19283F;
+}
+.navigation a{
+color: #A8B9C0;
+}
+.navigation a:hover{
+    color: #00C7C0;
+}
+.navigation{
+    list-style:none;
+}
+.navigation li{
+display: inline-block;
+}

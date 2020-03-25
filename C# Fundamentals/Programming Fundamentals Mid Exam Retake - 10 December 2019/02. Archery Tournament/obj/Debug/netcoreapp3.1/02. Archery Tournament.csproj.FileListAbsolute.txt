@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam Retake - 10 December 2019\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.pdb

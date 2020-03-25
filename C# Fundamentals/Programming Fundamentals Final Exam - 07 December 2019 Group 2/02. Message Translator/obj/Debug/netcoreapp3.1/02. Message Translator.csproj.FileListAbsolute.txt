@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.pdb

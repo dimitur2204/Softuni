@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.pdb

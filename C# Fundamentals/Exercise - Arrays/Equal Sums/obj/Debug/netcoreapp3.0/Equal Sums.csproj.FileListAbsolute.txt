@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\bin\Debug\netcoreapp3.0\Equal Sums.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\bin\Debug\netcoreapp3.0\Equal Sums.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\bin\Debug\netcoreapp3.0\Equal Sums.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\bin\Debug\netcoreapp3.0\Equal Sums.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\bin\Debug\netcoreapp3.0\Equal Sums.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\bin\Debug\netcoreapp3.0\Equal Sums.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\obj\Debug\netcoreapp3.0\Equal Sums.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\obj\Debug\netcoreapp3.0\Equal Sums.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\obj\Debug\netcoreapp3.0\Equal Sums.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\obj\Debug\netcoreapp3.0\Equal Sums.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Arrays\Equal Sums\obj\Debug\netcoreapp3.0\Equal Sums.pdb

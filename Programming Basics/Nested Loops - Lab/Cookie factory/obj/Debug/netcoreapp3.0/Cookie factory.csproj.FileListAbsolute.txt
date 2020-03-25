@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\obj\Debug\netcoreapp3.0\Cookie factory.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\obj\Debug\netcoreapp3.0\Cookie factory.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\obj\Debug\netcoreapp3.0\Cookie factory.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\bin\Debug\netcoreapp3.0\Cookie factory.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\bin\Debug\netcoreapp3.0\Cookie factory.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\bin\Debug\netcoreapp3.0\Cookie factory.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\bin\Debug\netcoreapp3.0\Cookie factory.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\bin\Debug\netcoreapp3.0\Cookie factory.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\bin\Debug\netcoreapp3.0\Cookie factory.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\obj\Debug\netcoreapp3.0\Cookie factory.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Cookie factory\obj\Debug\netcoreapp3.0\Cookie factory.pdb

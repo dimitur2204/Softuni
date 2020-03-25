@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\bin\Debug\netcoreapp3.0\Name Wars.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\bin\Debug\netcoreapp3.0\Name Wars.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\bin\Debug\netcoreapp3.0\Name Wars.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\bin\Debug\netcoreapp3.0\Name Wars.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\bin\Debug\netcoreapp3.0\Name Wars.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\bin\Debug\netcoreapp3.0\Name Wars.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\obj\Debug\netcoreapp3.0\Name Wars.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\obj\Debug\netcoreapp3.0\Name Wars.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\obj\Debug\netcoreapp3.0\Name Wars.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Name Wars\obj\Debug\netcoreapp3.0\Name Wars.pdb

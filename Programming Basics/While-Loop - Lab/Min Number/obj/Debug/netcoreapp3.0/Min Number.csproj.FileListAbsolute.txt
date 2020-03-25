@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\bin\Debug\netcoreapp3.0\Min Number.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\bin\Debug\netcoreapp3.0\Min Number.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\bin\Debug\netcoreapp3.0\Min Number.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\bin\Debug\netcoreapp3.0\Min Number.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\bin\Debug\netcoreapp3.0\Min Number.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\bin\Debug\netcoreapp3.0\Min Number.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\obj\Debug\netcoreapp3.0\Min Number.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\obj\Debug\netcoreapp3.0\Min Number.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\obj\Debug\netcoreapp3.0\Min Number.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Min Number\obj\Debug\netcoreapp3.0\Min Number.pdb

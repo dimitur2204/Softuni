@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb

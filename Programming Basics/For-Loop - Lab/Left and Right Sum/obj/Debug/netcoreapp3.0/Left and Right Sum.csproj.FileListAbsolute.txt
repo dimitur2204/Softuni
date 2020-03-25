@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.0\Left and Right Sum.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.0\Left and Right Sum.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.0\Left and Right Sum.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.0\Left and Right Sum.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.0\Left and Right Sum.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.0\Left and Right Sum.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.0\Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.0\Left and Right Sum.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.0\Left and Right Sum.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\For-Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.0\Left and Right Sum.pdb

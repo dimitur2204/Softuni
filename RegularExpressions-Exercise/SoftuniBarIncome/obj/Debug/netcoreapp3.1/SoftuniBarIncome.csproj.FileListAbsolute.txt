@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\bin\Debug\netcoreapp3.1\SoftuniBarIncome.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\SoftuniBarIncome\obj\Debug\netcoreapp3.1\SoftuniBarIncome.pdb

@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\RegularExpressions-Exercise.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\RegularExpressions-Exercise.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\RegularExpressions-Exercise.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\RegularExpressions-Exercise.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\RegularExpressions-Exercise.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\RegularExpressions-Exercise.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\RegularExpressions-Exercise.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\RegularExpressions-Exercise.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\RegularExpressions-Exercise.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\RegularExpressions-Exercise.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\RegularExpressions-Exercise.pdb

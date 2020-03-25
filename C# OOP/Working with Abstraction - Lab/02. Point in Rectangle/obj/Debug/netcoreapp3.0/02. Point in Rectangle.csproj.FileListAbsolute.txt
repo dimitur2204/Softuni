@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02. Point in Rectangle.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02. Point in Rectangle.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02. Point in Rectangle.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02. Point in Rectangle.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02. Point in Rectangle.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02. Point in Rectangle.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02. Point in Rectangle.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02. Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02. Point in Rectangle.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02. Point in Rectangle.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02. Point in Rectangle.pdb

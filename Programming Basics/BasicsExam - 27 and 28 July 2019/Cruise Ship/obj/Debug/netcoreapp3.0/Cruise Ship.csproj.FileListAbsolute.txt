@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\bin\Debug\netcoreapp3.0\Cruise Ship.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\bin\Debug\netcoreapp3.0\Cruise Ship.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\bin\Debug\netcoreapp3.0\Cruise Ship.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\bin\Debug\netcoreapp3.0\Cruise Ship.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\bin\Debug\netcoreapp3.0\Cruise Ship.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\bin\Debug\netcoreapp3.0\Cruise Ship.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\obj\Debug\netcoreapp3.0\Cruise Ship.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\obj\Debug\netcoreapp3.0\Cruise Ship.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\obj\Debug\netcoreapp3.0\Cruise Ship.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\obj\Debug\netcoreapp3.0\Cruise Ship.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Online Exam - 27 and 28 July 2019\Cruise Ship\obj\Debug\netcoreapp3.0\Cruise Ship.pdb

@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\bin\Debug\netcoreapp3.0\Spaceship.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\bin\Debug\netcoreapp3.0\Spaceship.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\bin\Debug\netcoreapp3.0\Spaceship.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\bin\Debug\netcoreapp3.0\Spaceship.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\bin\Debug\netcoreapp3.0\Spaceship.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\bin\Debug\netcoreapp3.0\Spaceship.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\obj\Debug\netcoreapp3.0\Spaceship.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\obj\Debug\netcoreapp3.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\obj\Debug\netcoreapp3.0\Spaceship.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\obj\Debug\netcoreapp3.0\Spaceship.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Spaceship\obj\Debug\netcoreapp3.0\Spaceship.pdb

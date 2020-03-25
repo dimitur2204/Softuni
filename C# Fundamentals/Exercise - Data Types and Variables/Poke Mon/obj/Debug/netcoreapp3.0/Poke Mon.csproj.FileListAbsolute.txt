@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\bin\Debug\netcoreapp3.0\Poke Mon.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\bin\Debug\netcoreapp3.0\Poke Mon.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\bin\Debug\netcoreapp3.0\Poke Mon.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\bin\Debug\netcoreapp3.0\Poke Mon.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\bin\Debug\netcoreapp3.0\Poke Mon.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\bin\Debug\netcoreapp3.0\Poke Mon.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\obj\Debug\netcoreapp3.0\Poke Mon.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\obj\Debug\netcoreapp3.0\Poke Mon.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\obj\Debug\netcoreapp3.0\Poke Mon.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\obj\Debug\netcoreapp3.0\Poke Mon.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Data Types and Variables\Poke Mon\obj\Debug\netcoreapp3.0\Poke Mon.pdb

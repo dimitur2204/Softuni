@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Nested Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.pdb

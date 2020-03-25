@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\bin\Debug\netcoreapp3.0\Sea Trip.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\bin\Debug\netcoreapp3.0\Sea Trip.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\bin\Debug\netcoreapp3.0\Sea Trip.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\bin\Debug\netcoreapp3.0\Sea Trip.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\bin\Debug\netcoreapp3.0\Sea Trip.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\bin\Debug\netcoreapp3.0\Sea Trip.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\obj\Debug\netcoreapp3.0\Sea Trip.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\obj\Debug\netcoreapp3.0\Sea Trip.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\obj\Debug\netcoreapp3.0\Sea Trip.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\obj\Debug\netcoreapp3.0\Sea Trip.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Basics Sample Exam - 24 November 2019\Sea Trip\obj\Debug\netcoreapp3.0\Sea Trip.pdb

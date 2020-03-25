@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.pdb

@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\bin\Debug\netcoreapp3.0\Meters to Kilometers.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\bin\Debug\netcoreapp3.0\Meters to Kilometers.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\bin\Debug\netcoreapp3.0\Meters to Kilometers.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\bin\Debug\netcoreapp3.0\Meters to Kilometers.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\bin\Debug\netcoreapp3.0\Meters to Kilometers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\bin\Debug\netcoreapp3.0\Meters to Kilometers.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\obj\Debug\netcoreapp3.0\Meters to Kilometers.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\obj\Debug\netcoreapp3.0\Meters to Kilometers.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\obj\Debug\netcoreapp3.0\Meters to Kilometers.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\obj\Debug\netcoreapp3.0\Meters to Kilometers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Meters to Kilometers\obj\Debug\netcoreapp3.0\Meters to Kilometers.pdb

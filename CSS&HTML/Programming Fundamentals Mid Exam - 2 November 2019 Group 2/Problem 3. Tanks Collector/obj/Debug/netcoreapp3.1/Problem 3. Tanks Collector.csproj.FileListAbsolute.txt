@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\bin\Debug\netcoreapp3.1\Problem 3. Tanks Collector.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\bin\Debug\netcoreapp3.1\Problem 3. Tanks Collector.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\bin\Debug\netcoreapp3.1\Problem 3. Tanks Collector.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\bin\Debug\netcoreapp3.1\Problem 3. Tanks Collector.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\bin\Debug\netcoreapp3.1\Problem 3. Tanks Collector.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\bin\Debug\netcoreapp3.1\Problem 3. Tanks Collector.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\obj\Debug\netcoreapp3.1\Problem 3. Tanks Collector.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\obj\Debug\netcoreapp3.1\Problem 3. Tanks Collector.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\obj\Debug\netcoreapp3.1\Problem 3. Tanks Collector.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\obj\Debug\netcoreapp3.1\Problem 3. Tanks Collector.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Programming Fundamentals Mid Exam - 2 November 2019 Group 2\Problem 3. Tanks Collector\obj\Debug\netcoreapp3.1\Problem 3. Tanks Collector.pdb

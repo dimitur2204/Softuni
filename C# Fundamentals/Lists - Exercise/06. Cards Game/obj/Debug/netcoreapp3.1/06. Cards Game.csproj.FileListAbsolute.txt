@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.pdb

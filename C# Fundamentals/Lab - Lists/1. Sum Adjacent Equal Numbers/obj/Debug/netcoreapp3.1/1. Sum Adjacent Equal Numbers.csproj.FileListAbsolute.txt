@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Lab - Lists\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb

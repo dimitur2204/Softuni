@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb

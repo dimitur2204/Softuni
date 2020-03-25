@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.0\Centuries to Minutes.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.0\Centuries to Minutes.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.0\Centuries to Minutes.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.0\Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.0\Centuries to Minutes.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp3.0\Centuries to Minutes.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.0\Centuries to Minutes.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.0\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.0\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.0\Centuries to Minutes.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Lab - Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp3.0\Centuries to Minutes.pdb

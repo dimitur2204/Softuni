@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\bin\Debug\netcoreapp3.1\03. Contact List.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\bin\Debug\netcoreapp3.1\03. Contact List.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\bin\Debug\netcoreapp3.1\03. Contact List.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\bin\Debug\netcoreapp3.1\03. Contact List.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\bin\Debug\netcoreapp3.1\03. Contact List.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\bin\Debug\netcoreapp3.1\03. Contact List.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\obj\Debug\netcoreapp3.1\03. Contact List.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\obj\Debug\netcoreapp3.1\03. Contact List.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\obj\Debug\netcoreapp3.1\03. Contact List.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\obj\Debug\netcoreapp3.1\03. Contact List.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\03. Contact List\obj\Debug\netcoreapp3.1\03. Contact List.pdb

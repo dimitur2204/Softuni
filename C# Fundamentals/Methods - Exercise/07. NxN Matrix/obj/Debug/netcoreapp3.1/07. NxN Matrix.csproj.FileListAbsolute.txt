@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb

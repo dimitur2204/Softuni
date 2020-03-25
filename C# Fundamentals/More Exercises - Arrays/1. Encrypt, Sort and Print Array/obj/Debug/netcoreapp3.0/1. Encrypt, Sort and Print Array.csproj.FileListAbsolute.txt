@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.0\1. Encrypt, Sort and Print Array.pdb

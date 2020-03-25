@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Intro and Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.pdb

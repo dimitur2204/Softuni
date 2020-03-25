@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\bin\Debug\netcoreapp3.0\Number in Range 1-100.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\bin\Debug\netcoreapp3.0\Number in Range 1-100.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\bin\Debug\netcoreapp3.0\Number in Range 1-100.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\bin\Debug\netcoreapp3.0\Number in Range 1-100.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\bin\Debug\netcoreapp3.0\Number in Range 1-100.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\bin\Debug\netcoreapp3.0\Number in Range 1-100.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\obj\Debug\netcoreapp3.0\Number in Range 1-100.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\obj\Debug\netcoreapp3.0\Number in Range 1-100.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\obj\Debug\netcoreapp3.0\Number in Range 1-100.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\obj\Debug\netcoreapp3.0\Number in Range 1-100.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Number in Range 1-100\obj\Debug\netcoreapp3.0\Number in Range 1-100.pdb

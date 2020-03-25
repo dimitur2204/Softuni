@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb

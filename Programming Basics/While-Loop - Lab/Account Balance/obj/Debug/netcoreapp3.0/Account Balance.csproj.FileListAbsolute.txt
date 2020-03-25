@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\While-Loop - Lab\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.pdb

@@ -1,0 +1,108 @@
+body{
+font-family: Roboto, sans-serif;
+font-size: 15px;
+margin: 0;
+}
+
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+.button{
+    color: #FFC501;
+    background-color: #FF3150;
+    border: none;
+    outline: none;
+    padding: 13px 40px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.button:hover{
+    background-color: white;
+    color:#19283F;
+    cursor: pointer;
+}
+
+.header-section{
+    background-color: #19283F;
+    color: #A8B9C0;
+    padding-top: 15px;
+    padding-bottom: 150px;
+}
+
+.header-section nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.header-section main{
+    text-align: center;
+    color: #F0F8FB;
+}
+
+.header-section main button{
+    margin-top: 28px;
+}
+
+.header-section h1,
+.header-section h2{
+    margin: 0;
+    line-height: 100%;
+}
+
+.header-section h1
+{
+    font-weight: 300;
+    margin: 0;
+    font-size:41px;
+    color: #F0F8FB;
+}
+
+.header-section h2{
+    margin: 0;
+    font-size:inherit;
+    font-weight: normal;
+    color: #A8B9C0;
+}
+
+.menu{
+    list-style: none;
+    margin: 0;
+}
+
+.menu-item{
+    display: inline-block;
+    padding-right: 30px;
+    line-height: 27px;
+}
+
+.menu-item:last-of-type{
+    border-right: 0.5px solid #00C7C0;
+}
+
+.menu-item a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.menu-item a:hover{
+color:#00C7C0;
+}
+
+.search-button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    margin: 0 30px;
+}
+
+.search-icon{
+    display: block;
+    width: 23px;
+    height: 24px;
+    background: url(icons/search-icon.png) no-repeat;
+}

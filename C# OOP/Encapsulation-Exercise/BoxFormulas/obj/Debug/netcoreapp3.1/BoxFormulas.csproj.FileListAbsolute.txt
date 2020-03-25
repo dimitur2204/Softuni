@@ -1,0 +1,22 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\bin\Debug\netcoreapp3.1\BoxFormulas.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Encapsulation-Exercise\BoxFormulas\obj\Debug\netcoreapp3.1\BoxFormulas.pdb

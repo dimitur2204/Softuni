@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agency", "..\Programming Basics Online Exam - 30 November and 1 December 2019\Agency\Agency.csproj", "{B9A2221D-E552-4BFC-9C01-998FFB01B238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Bags", "..\Programming Basics Online Exam - 30 November and 1 December 2019\Add Bags\Add Bags.csproj", "{DDE63708-29D4-4924-A4C9-956AEFB7E7D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Public Transport", "..\Programming Basics Online Exam - 30 November and 1 December 2019\Public Transport\Public Transport.csproj", "{CAB5F82C-B3DA-4501-84C4-339D68ED5B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freelance", "..\Programming Basics Online Exam - 30 November and 1 December 2019\Freelance\Freelance.csproj", "{EA5C3D29-251E-46C0-A0E0-E1A9A98255C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calories Diary", "..\Programming Basics Online Exam - 30 November and 1 December 2019\Calories Diary\Calories Diary.csproj", "{0A32707A-9273-471F-BBD8-8E45185081CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golf", "..\Programming Basics Online Exam - 30 November and 1 December 2019\Golf\Golf.csproj", "{80116A28-F01D-4E11-B4D7-2B9693A45DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A2221D-E552-4BFC-9C01-998FFB01B238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A2221D-E552-4BFC-9C01-998FFB01B238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A2221D-E552-4BFC-9C01-998FFB01B238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A2221D-E552-4BFC-9C01-998FFB01B238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE63708-29D4-4924-A4C9-956AEFB7E7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE63708-29D4-4924-A4C9-956AEFB7E7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE63708-29D4-4924-A4C9-956AEFB7E7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE63708-29D4-4924-A4C9-956AEFB7E7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB5F82C-B3DA-4501-84C4-339D68ED5B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB5F82C-B3DA-4501-84C4-339D68ED5B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB5F82C-B3DA-4501-84C4-339D68ED5B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB5F82C-B3DA-4501-84C4-339D68ED5B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5C3D29-251E-46C0-A0E0-E1A9A98255C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5C3D29-251E-46C0-A0E0-E1A9A98255C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5C3D29-251E-46C0-A0E0-E1A9A98255C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5C3D29-251E-46C0-A0E0-E1A9A98255C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A32707A-9273-471F-BBD8-8E45185081CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A32707A-9273-471F-BBD8-8E45185081CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A32707A-9273-471F-BBD8-8E45185081CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A32707A-9273-471F-BBD8-8E45185081CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80116A28-F01D-4E11-B4D7-2B9693A45DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80116A28-F01D-4E11-B4D7-2B9693A45DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80116A28-F01D-4E11-B4D7-2B9693A45DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80116A28-F01D-4E11-B4D7-2B9693A45DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D63B91-A298-4F92-A0A5-B3423D206DA3}
+	EndGlobalSection
+EndGlobal

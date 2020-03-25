@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.pdb

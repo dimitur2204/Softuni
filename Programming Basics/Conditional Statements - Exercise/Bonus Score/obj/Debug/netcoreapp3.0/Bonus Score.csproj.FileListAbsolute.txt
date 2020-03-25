@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.pdb

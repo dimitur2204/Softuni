@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb

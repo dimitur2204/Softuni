@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\Exercise - Strings and Text Processing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.pdb

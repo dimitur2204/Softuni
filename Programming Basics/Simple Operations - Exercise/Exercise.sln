@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USD to BGN", "USD to BGN\USD to BGN.csproj", "{94DA267D-112B-4E79-AD28-C522482C0222}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rad to Degree", "Rad to Degree\Rad to Degree.csproj", "{AEF6C3C6-8E7F-493E-90D7-8DBBD0638EBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2D Rectangle Area", "2D Rectangle Area\2D Rectangle Area.csproj", "{E3F5868E-38A0-4FA7-BE80-F2A2EF65372E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailoring Workshop", "Tailoring Workshop\Tailoring Workshop.csproj", "{7F0EF6C0-0E80-4C26-B639-EDFD5913DFC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dance Hall", "Dance Hall\Dance Hall.csproj", "{4222A8BB-C0EF-4176-B4B3-BF0E7CEC4E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charity Campaign", "Charity Campaign\Charity Campaign.csproj", "{9536C618-F484-429A-ACB7-C6E9790FD440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchohol Market", "Alchohol Market\Alchohol Market.csproj", "{B72D88D6-A5B2-4CCE-8977-CAF21C18BCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DA267D-112B-4E79-AD28-C522482C0222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DA267D-112B-4E79-AD28-C522482C0222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DA267D-112B-4E79-AD28-C522482C0222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DA267D-112B-4E79-AD28-C522482C0222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF6C3C6-8E7F-493E-90D7-8DBBD0638EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF6C3C6-8E7F-493E-90D7-8DBBD0638EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF6C3C6-8E7F-493E-90D7-8DBBD0638EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF6C3C6-8E7F-493E-90D7-8DBBD0638EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F5868E-38A0-4FA7-BE80-F2A2EF65372E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F5868E-38A0-4FA7-BE80-F2A2EF65372E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F5868E-38A0-4FA7-BE80-F2A2EF65372E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F5868E-38A0-4FA7-BE80-F2A2EF65372E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0EF6C0-0E80-4C26-B639-EDFD5913DFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0EF6C0-0E80-4C26-B639-EDFD5913DFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0EF6C0-0E80-4C26-B639-EDFD5913DFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0EF6C0-0E80-4C26-B639-EDFD5913DFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4222A8BB-C0EF-4176-B4B3-BF0E7CEC4E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4222A8BB-C0EF-4176-B4B3-BF0E7CEC4E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4222A8BB-C0EF-4176-B4B3-BF0E7CEC4E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4222A8BB-C0EF-4176-B4B3-BF0E7CEC4E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9536C618-F484-429A-ACB7-C6E9790FD440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9536C618-F484-429A-ACB7-C6E9790FD440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9536C618-F484-429A-ACB7-C6E9790FD440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9536C618-F484-429A-ACB7-C6E9790FD440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72D88D6-A5B2-4CCE-8977-CAF21C18BCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72D88D6-A5B2-4CCE-8977-CAF21C18BCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72D88D6-A5B2-4CCE-8977-CAF21C18BCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72D88D6-A5B2-4CCE-8977-CAF21C18BCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A62D5FC3-B748-4682-831E-AEB834CCD644}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\bin\Debug\netcoreapp3.0\Alchohol Market.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\bin\Debug\netcoreapp3.0\Alchohol Market.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\bin\Debug\netcoreapp3.0\Alchohol Market.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\bin\Debug\netcoreapp3.0\Alchohol Market.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\bin\Debug\netcoreapp3.0\Alchohol Market.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\bin\Debug\netcoreapp3.0\Alchohol Market.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\obj\Debug\netcoreapp3.0\Alchohol Market.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\obj\Debug\netcoreapp3.0\Alchohol Market.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\obj\Debug\netcoreapp3.0\Alchohol Market.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Alchohol Market\obj\Debug\netcoreapp3.0\Alchohol Market.pdb

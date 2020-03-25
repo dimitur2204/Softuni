@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\bin\Debug\netcoreapp3.0\4. Friend List Maintenance.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\bin\Debug\netcoreapp3.0\4. Friend List Maintenance.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\bin\Debug\netcoreapp3.0\4. Friend List Maintenance.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\bin\Debug\netcoreapp3.0\4. Friend List Maintenance.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\bin\Debug\netcoreapp3.0\4. Friend List Maintenance.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\bin\Debug\netcoreapp3.0\4. Friend List Maintenance.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\obj\Debug\netcoreapp3.0\4. Friend List Maintenance.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\obj\Debug\netcoreapp3.0\4. Friend List Maintenance.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\obj\Debug\netcoreapp3.0\4. Friend List Maintenance.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\obj\Debug\netcoreapp3.0\4. Friend List Maintenance.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Fundamentals\More Exercises - Arrays\4. Friend List Maintenance\obj\Debug\netcoreapp3.0\4. Friend List Maintenance.pdb

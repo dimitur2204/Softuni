@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\bin\Debug\netcoreapp3.0\Rad to Degree.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\bin\Debug\netcoreapp3.0\Rad to Degree.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\bin\Debug\netcoreapp3.0\Rad to Degree.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\bin\Debug\netcoreapp3.0\Rad to Degree.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\bin\Debug\netcoreapp3.0\Rad to Degree.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\bin\Debug\netcoreapp3.0\Rad to Degree.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\obj\Debug\netcoreapp3.0\Rad to Degree.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\obj\Debug\netcoreapp3.0\Rad to Degree.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\obj\Debug\netcoreapp3.0\Rad to Degree.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\obj\Debug\netcoreapp3.0\Rad to Degree.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise\Rad to Degree\obj\Debug\netcoreapp3.0\Rad to Degree.pdb
