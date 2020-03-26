@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 07 December 2019 Group 1\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.pdb

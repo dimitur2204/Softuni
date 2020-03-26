@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchDates\\MatchDates.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchDates\\MatchDates.csproj",
       "projectName": "MatchDates",
-      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchDates\\MatchDates.csproj",
+      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchDates\\MatchDates.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchDates\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchDates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

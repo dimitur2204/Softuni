@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchPhoneNumber\\MatchPhoneNumber.csproj": {}
+    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchPhoneNumber\\MatchPhoneNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchPhoneNumber\\MatchPhoneNumber.csproj": {
+    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchPhoneNumber\\MatchPhoneNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchPhoneNumber\\MatchPhoneNumber.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchPhoneNumber\\MatchPhoneNumber.csproj",
         "projectName": "MatchPhoneNumber",
-        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchPhoneNumber\\MatchPhoneNumber.csproj",
+        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchPhoneNumber\\MatchPhoneNumber.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\MatchPhoneNumber\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\MatchPhoneNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

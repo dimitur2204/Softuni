@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\RegularExpressions-Exercise\\MatchFullName.csproj": {}
+    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\RegularExpressions-Exercise\\MatchFullName.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\RegularExpressions-Exercise\\MatchFullName.csproj": {
+    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\RegularExpressions-Exercise\\MatchFullName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\RegularExpressions-Exercise\\MatchFullName.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\RegularExpressions-Exercise\\MatchFullName.csproj",
         "projectName": "MatchFullName",
-        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\RegularExpressions-Exercise\\MatchFullName.csproj",
+        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\RegularExpressions-Exercise\\MatchFullName.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\RegularExpressions-Exercise\\RegularExpressions-Exercise\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Fundamentals\\RegularExpressions-Lab\\RegularExpressions-Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

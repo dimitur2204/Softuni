@@ -11,19 +11,19 @@ namespace NetherRealms
         {
             var demons = new List<Demon>();
             var names = Console.ReadLine()
-                .Split(new char[] { ',', ' '}, StringSplitOptions.RemoveEmptyEntries);
+                .Split(", ", StringSplitOptions.RemoveEmptyEntries);
             names = names.Select(x => x.Trim()).ToArray();
             foreach (var name in names)
-            {               
+            {
                 var demonHealth = CalculateHealth(name);
                 var demonDamage = CalculateDamage(name);
-                var demon = new Demon(name,demonHealth,demonDamage);
+                var demon = new Demon(name, demonHealth, demonDamage);
                 demons.Add(demon);
             }
             demons = demons.OrderBy(x => x.Name).ToList();
             foreach (var demon in demons)
             {
-                Console.WriteLine($"{demon.Name} - {demon.Health} health, {demon.Damage:f2} damage"); 
+                Console.WriteLine($"{demon.Name} - {demon.Health} health, {demon.Damage:f2} damage");
             }
         }
         public static int CalculateHealth(string name)
@@ -39,7 +39,7 @@ namespace NetherRealms
             }
             return health;
         }
-        public static decimal CalculateDamage(string name)         
+        public static decimal CalculateDamage(string name)
         {
             var regex = @"([-+]?(\d+\.)?\d+)";
             var numbers = Regex.Matches(name, regex);
@@ -61,18 +61,5 @@ namespace NetherRealms
             }
             return damage;
         }
-    }
-    class Demon
-    {
-        public Demon(string name, int health, decimal damage)
-        {
-            Name = name;
-            Health = health;
-            Damage = damage;
-        }
-
-        public string Name { get; }
-        public int Health { get; }
-        public decimal Damage { get; }
     }
 }
