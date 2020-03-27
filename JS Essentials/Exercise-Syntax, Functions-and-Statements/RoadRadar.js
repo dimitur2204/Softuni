@@ -1,9 +1,9 @@
 function solve(input){
     function getSpeeding(speed){
 
-        if (speed >= 40)
+        if (speed > 40)
         console.log("reckless driving");   
-        else if (speed >= 20)   
+        else if (speed > 20)   
         console.log("excessive speeding");     
         else
         console.log("speeding")
