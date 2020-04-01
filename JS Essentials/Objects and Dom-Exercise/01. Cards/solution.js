@@ -33,9 +33,9 @@ function solve() {
                card.style.border = "2px solid green";
                firstCard.style.border = "2px solid red";
             }
-            turnCounter=0;
+            turnCounter = 0;
             //[{top side card name} vs {bottom side card name} ]
-            historyDiv.innerHTML+=`[${player1Span.innerHTML} vs ${player2Span.innerHTML}]`;
+            historyDiv.innerHTML += `[${player1Span.innerHTML} vs ${player2Span.innerHTML}] `;
             player1Span.innerHTML = "";
             player2Span.innerHTML = "";
          }

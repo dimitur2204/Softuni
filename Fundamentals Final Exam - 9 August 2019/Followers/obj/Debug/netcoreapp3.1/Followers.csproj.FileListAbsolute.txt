@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\bin\Debug\netcoreapp3.1\Followers.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\bin\Debug\netcoreapp3.1\Followers.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\bin\Debug\netcoreapp3.1\Followers.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\bin\Debug\netcoreapp3.1\Followers.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\bin\Debug\netcoreapp3.1\Followers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\bin\Debug\netcoreapp3.1\Followers.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\obj\Debug\netcoreapp3.1\Followers.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\obj\Debug\netcoreapp3.1\Followers.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\obj\Debug\netcoreapp3.1\Followers.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\obj\Debug\netcoreapp3.1\Followers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final Exam - 9 August 2019\Followers\obj\Debug\netcoreapp3.1\Followers.pdb
