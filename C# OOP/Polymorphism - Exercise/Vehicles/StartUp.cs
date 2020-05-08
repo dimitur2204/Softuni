@@ -9,9 +9,15 @@ namespace Vehicles
             var carInfo = Console.ReadLine().Split();          
             var truckInfo = Console.ReadLine().Split();
             var busInfo = Console.ReadLine().Split();
-            var car = new Car(double.Parse(carInfo[1]), double.Parse(carInfo[2]), double.Parse(carInfo[3]));
-            var truck = new Truck(double.Parse(truckInfo[1]), double.Parse(truckInfo[2]), double.Parse(truckInfo[3]));
-            var bus = new Bus(double.Parse(busInfo[1]), double.Parse(busInfo[2]), double.Parse(busInfo[3]));
+            var car = new Car(double.Parse(carInfo[1]), 
+                double.Parse(carInfo[2]), 
+                double.Parse(carInfo[3]));
+            var truck = new Truck(double.Parse(truckInfo[1]), 
+                double.Parse(truckInfo[2]), 
+                double.Parse(truckInfo[3]));
+            var bus = new Bus(double.Parse(busInfo[1]), 
+                double.Parse(busInfo[2]), 
+                double.Parse(busInfo[3]));
             var numberOfCommands = int.Parse(Console.ReadLine());
             for (int i = 0; i < numberOfCommands; i++)
             {

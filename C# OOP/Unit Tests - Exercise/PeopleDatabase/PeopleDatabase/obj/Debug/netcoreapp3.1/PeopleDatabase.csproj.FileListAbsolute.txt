@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\bin\Debug\netcoreapp3.1\PeopleDatabase.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\bin\Debug\netcoreapp3.1\PeopleDatabase.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\bin\Debug\netcoreapp3.1\PeopleDatabase.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\bin\Debug\netcoreapp3.1\PeopleDatabase.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\bin\Debug\netcoreapp3.1\PeopleDatabase.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\bin\Debug\netcoreapp3.1\PeopleDatabase.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\obj\Debug\netcoreapp3.1\PeopleDatabase.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\obj\Debug\netcoreapp3.1\PeopleDatabase.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\obj\Debug\netcoreapp3.1\PeopleDatabase.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\obj\Debug\netcoreapp3.1\PeopleDatabase.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\PeopleDatabase\PeopleDatabase\obj\Debug\netcoreapp3.1\PeopleDatabase.pdb

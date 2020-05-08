@@ -1,0 +1,21 @@
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Unit Tests - Lab\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb

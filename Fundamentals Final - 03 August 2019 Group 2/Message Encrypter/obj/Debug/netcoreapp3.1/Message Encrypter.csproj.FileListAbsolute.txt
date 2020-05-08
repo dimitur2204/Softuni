@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Final - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.pdb

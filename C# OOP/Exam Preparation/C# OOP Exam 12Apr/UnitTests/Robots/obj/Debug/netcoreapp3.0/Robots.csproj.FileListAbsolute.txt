@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Exam Preparation\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.pdb

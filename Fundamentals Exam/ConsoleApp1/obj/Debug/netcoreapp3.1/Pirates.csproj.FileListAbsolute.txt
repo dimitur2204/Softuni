@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Pirates.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Pirates.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Pirates.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Pirates.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Pirates.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Fundamentals Exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Pirates.pdb

@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Reflection and Attributes - Exercise\New Exercises\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.pdb

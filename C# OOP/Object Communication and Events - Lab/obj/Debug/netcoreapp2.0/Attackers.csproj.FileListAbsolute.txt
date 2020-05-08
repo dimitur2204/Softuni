@@ -1,0 +1,9 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\bin\Debug\netcoreapp2.0\Attackers.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\bin\Debug\netcoreapp2.0\Attackers.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\bin\Debug\netcoreapp2.0\Attackers.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\bin\Debug\netcoreapp2.0\Attackers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\bin\Debug\netcoreapp2.0\Attackers.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\obj\Debug\netcoreapp2.0\Attackers.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\obj\Debug\netcoreapp2.0\Attackers.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\obj\Debug\netcoreapp2.0\Attackers.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\Object Communication and Events - Lab\obj\Debug\netcoreapp2.0\Attackers.pdb

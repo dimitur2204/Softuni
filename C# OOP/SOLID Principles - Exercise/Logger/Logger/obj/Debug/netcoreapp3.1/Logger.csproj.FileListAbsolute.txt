@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# OOP\SOLID Principles - Exercise\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
