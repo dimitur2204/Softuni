@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.pdb

@@ -39,7 +39,7 @@ namespace RobotService.Models.Procedures
             {
                 information.AppendLine(robot.ToString());
             }
-            return information.ToString();
+            return information.ToString().Trim();
         }
     }
 }

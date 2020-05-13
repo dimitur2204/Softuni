@@ -9,7 +9,7 @@ namespace RobotService.Models.Garages
     public class Garage : IGarage
     {
         private const int Capacity = 10;
-        private Dictionary<string,IRobot> robots;
+        private readonly Dictionary<string,IRobot> robots;
         public Garage()
         {
             this.robots = new Dictionary<string, IRobot>();  

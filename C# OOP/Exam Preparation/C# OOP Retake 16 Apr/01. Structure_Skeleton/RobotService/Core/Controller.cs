@@ -3,7 +3,7 @@ namespace RobotService.Core
 {
     using System;
     using System.Linq;
-
+    using System.Reflection;
     using RobotService.Core.Contracts;
     using RobotService.Models.Garages;
     using RobotService.Models.Garages.Contracts;
@@ -20,9 +20,9 @@ namespace RobotService.Core
         private readonly IProcedure rest = new Rest();
         private readonly IProcedure techcheck = new TechCheck();
         private readonly IProcedure work = new Work();
-        private bool RobotExistsInTheGarage(string robotName) 
+        private bool RobotExistsInTheGarage(string robotName)
         {
-            if (!garage.Robots.ContainsKey(robotName)) 
+            if (!garage.Robots.ContainsKey(robotName))
             {
                 throw new ArgumentException($"Robot {robotName} does not exist");
             }
@@ -45,7 +45,7 @@ namespace RobotService.Core
                 chip.DoService(this.garage.Robots[robotName], procedureTime);
                 return $"{robotName} had chip procedure";
             }
-                return null;
+            return null;
         }
 
         public string History(string procedureType)
@@ -54,18 +54,12 @@ namespace RobotService.Core
                 .Assembly
                 .GetTypes()
                 .FirstOrDefault(x => x.Name == procedureType);
-            if (procedure == null)
-            {
-                throw new ArgumentException("Ne sa kazali kakvo da pishe");
-            }
-            else
-            {
-                var procedureHistory = (IProcedure)this.GetType()
-                    .GetFields()
-                    .First(x => x.Name == procedureType.ToLower())
-                    .GetValue(this);
-                return procedureHistory.History();
-            }
+
+            var procedureHistory = (IProcedure)this.GetType()
+                .GetFields(BindingFlags.NonPublic | BindingFlags.Instance)
+                .First(x => x.Name == procedureType.ToLower())
+                .GetValue(this);
+            return procedureHistory.History();
         }
 
         public string Manufacture(string robotType, string name, int energy, int happiness, int procedureTime)
@@ -81,7 +75,7 @@ namespace RobotService.Core
             }
             else
             {
-                var robot = (IRobot)Activator.CreateInstance(type,name,energy,happiness,procedureTime);
+                var robot = (IRobot)Activator.CreateInstance(type, name, energy, happiness, procedureTime);
                 this.garage.Manufacture(robot);
                 return $"Robot {robot.Name} registered successfully";
             }
