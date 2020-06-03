@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.1\Fast Food.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.1\Fast Food.pdb

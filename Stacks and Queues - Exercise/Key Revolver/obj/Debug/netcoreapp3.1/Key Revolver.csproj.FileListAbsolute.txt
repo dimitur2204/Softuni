@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Stacks and Queues - Exercise\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.pdb

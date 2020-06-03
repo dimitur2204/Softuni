@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.pdb

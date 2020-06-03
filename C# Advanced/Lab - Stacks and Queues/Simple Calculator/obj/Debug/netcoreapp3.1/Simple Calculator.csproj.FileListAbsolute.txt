@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.pdb

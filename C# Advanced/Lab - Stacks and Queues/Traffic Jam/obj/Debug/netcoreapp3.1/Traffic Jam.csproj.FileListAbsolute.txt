@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\bin\Debug\netcoreapp3.1\Traffic Jam.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\bin\Debug\netcoreapp3.1\Traffic Jam.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\bin\Debug\netcoreapp3.1\Traffic Jam.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\bin\Debug\netcoreapp3.1\Traffic Jam.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\bin\Debug\netcoreapp3.1\Traffic Jam.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\bin\Debug\netcoreapp3.1\Traffic Jam.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\obj\Debug\netcoreapp3.1\Traffic Jam.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\obj\Debug\netcoreapp3.1\Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\obj\Debug\netcoreapp3.1\Traffic Jam.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\obj\Debug\netcoreapp3.1\Traffic Jam.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Traffic Jam\obj\Debug\netcoreapp3.1\Traffic Jam.pdb

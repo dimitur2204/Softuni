@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\C# Advanced\Lab - Stacks and Queues\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.pdb
