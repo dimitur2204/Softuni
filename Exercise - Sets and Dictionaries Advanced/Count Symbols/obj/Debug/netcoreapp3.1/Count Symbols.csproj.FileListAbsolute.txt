@@ -1,0 +1,10 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.pdb

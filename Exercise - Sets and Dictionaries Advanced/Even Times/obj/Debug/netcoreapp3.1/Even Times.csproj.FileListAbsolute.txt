@@ -1,0 +1,11 @@
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.exe
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.deps.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.pdb
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.csprojAssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.dll
+C:\Users\dimit\OneDrive\Desktop\Softuni\Exercise - Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.pdb
