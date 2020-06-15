@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Dimitar\\.nuget\\packages\\": {}
+    "C:\\Users\\dimit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
+      "projectUniqueName": "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
       "projectName": "06. Reverse And Exclude",
-      "projectPath": "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
-      "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\06. Reverse And Exclude\\obj\\",
+      "projectPath": "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
+      "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
+      "outputPath": "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\06. Reverse And Exclude\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dimitar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

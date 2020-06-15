@@ -1,0 +1,10 @@
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.exe
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.deps.json
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.json
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.dev.json
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.dll
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.pdb
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfoInputs.cache
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfo.cs
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.dll
+C:\Softuni\C# Advanced\Functinal Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj": {}
+    "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj": {
+    "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj",
+        "projectUniqueName": "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj",
         "projectName": "01. Action Print",
-        "projectPath": "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj",
-        "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dimitar\\OneDrive\\Desktop\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\obj\\",
+        "projectPath": "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\01. Action Print.csproj",
+        "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
+        "outputPath": "C:\\Softuni\\C# Advanced\\Functinal Programming - Exercise\\01. Action Print\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dimitar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
