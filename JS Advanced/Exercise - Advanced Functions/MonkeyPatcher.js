@@ -27,7 +27,7 @@ function solution(command) {
 			rating = 'new';
 		}
 		let result;
-		if (totalVotes >= 50) {
+		if (totalVotes > 50) {
 			result = obfuscate(this.upvotes, this.downvotes);
 		} else {
 			result = [this.upvotes, this.downvotes];
