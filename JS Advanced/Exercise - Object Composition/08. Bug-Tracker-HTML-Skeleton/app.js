@@ -1,47 +1,45 @@
-function createReporter() {
-	let elementToDeploy = '';
+function solve() {
+	const comparator = {
+		ID: (a, b) => a.ID - b.ID,
+		author: (a, b) => a.localeCompare(b),
+		severity: (a, b) => a.severity - b.severity,
+	};
+	let currentId = 0;
+	const displayEl = null;
+	const reports = new Map();
+	let status = 'Open';
 	function report(author, description, reproducible, severity) {
-		const bugs = Array.from(document.querySelectorAll('.report'));
-		const bug = {
-			ID: bugs.length,
-			author: author,
-			description: description,
-			reproducible: reproducible,
-			severity: severity,
-			status: 'Open',
+		const currReport = {
+			ID: currentId,
+			author,
+			description,
+			reproducible,
+			severity,
+			get status() {
+				return status;
+			},
+			set status(value) {
+				this.status = value;
+			},
 		};
-		let html = `<div id="report_${bug.ID}" class="report">
-  <div class="body">
-    <p>${bug.description}</p>
-  </div>
-  <div class="title">
-    <span class="author">Submitted by: ${bug.author}</span>
-    <span class="status">${bug.status} | ${bug.severity}</span>
-  </div>
-</div>`;
-		elementToDeploy.innerHTML += html;
+		reports.set(currentId, currReport);
+		currentId++;
 	}
 	function setStatus(id, newStatus) {
-		const bugs = Array.from(document.querySelectorAll('.report'));
-		const bug = bugs.find((b) => b.id == `report_${id}`);
-		bug.querySelector('.status').innerHTML = `${newStatus} | ${bug.severity}`;
+		const report = reports.get(id);
+		report.status = newStatus;
 	}
 	function remove(id) {
-		const bugs = Array.from(document.querySelectorAll('.report'));
-		const bug = bugs.find((b) => b.id == `report_${id}`);
-		bug.remove();
+		reports.delete(id);
 	}
 	function sort(method) {
-		bugs.sort((a, b) => {
-			if (method == 'author') {
-				return a.localeCompare(b);
-			} else {
-				return a[method] - b[method];
-			}
-		});
+		for (const item of reports.entries()) {
+			console.log(item);
+		}
 	}
+	function render() {}
 	function output(selector) {
-		elementToDeploy = selector;
+		displayEl = document.querySelector(selector);
 	}
 	return {
 		report,
@@ -51,8 +49,6 @@ function createReporter() {
 		output,
 	};
 }
-let tracker = createReporter();
-let elementToDeploy = document.getElementById('content');
-tracker.output(elementToDeploy);
-tracker.report('asdf', 'asdf', true, 5);
-tracker.setStatus(3, 'else');
+var tracker = solve();
+tracker.report('Peter', 'A big bug', true, 10);
+tracker.sort();

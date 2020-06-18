@@ -1,52 +1,45 @@
 (function () {
 	function ensureStart(str) {
-		let result = '';
-		if (!this.includes(str)) {
-			result += str;
+		if (!this.startsWith(str)) {
+			return str + this;
 		}
-		result += this;
-		return result;
+		return this.toString();
 	}
 	function ensureEnd(str) {
-		result = this;
-		if (!this.includes(str)) {
-			result += str;
+		if (!this.endsWith(str)) {
+			return this + str;
 		}
-		return result;
+		return this.toString();
 	}
 	function isEmpty() {
-		if (this == '') {
+		if (this.length === 0) {
 			return true;
 		}
 		return false;
 	}
 	function truncate(n) {
-		if (this.length <= n) {
-			return this;
-		} else {
-			const tokens = this.split('');
-			let result = tokens.reduce((acc, curr) => {
-				if ((acc + curr).length < n) {
-					acc += curr + ' ';
-				}
-				return acc;
-			}, '');
+		if (n <= 3) {
+			return '.'.repeat(n);
+		}
+		if (n >= this.length) {
+			return this.toString();
+		}
+		let spaceIndex = this.substring(0, n - 1).lastIndexOf(' ');
+		if (spaceIndex > 0) {
+			return this.substring(0, n - 3) + '...';
 		}
 	}
 	function format(string, ...params) {
-		for (let i = 0; i < string.length; i++) {
-			const symbol = string[i];
-			if (symbol == '{') {
-				string[i] = '';
-				string[i + 1] = params[Number(string[i + 1])];
-				string[i + 2] = '';
-			}
-		}
+		params.forEach((e, i) => {
+			string = string.replace(`{${i}}`, e);
+		});
 		return string;
 	}
 	String.prototype.ensureStart = ensureStart;
 	String.prototype.ensureEnd = ensureEnd;
 	String.prototype.isEmpty = isEmpty;
+	String.prototype.truncate = truncate;
+	String.format = format;
 })();
 let myString = 'hello';
 myString = myString.ensureStart('hi');
