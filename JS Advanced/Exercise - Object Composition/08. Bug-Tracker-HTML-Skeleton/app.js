@@ -1,12 +1,12 @@
 function solve() {
 	const comparator = {
-		ID: (a, b) => a.ID - b.ID,
-		author: (a, b) => a.localeCompare(b),
-		severity: (a, b) => a.severity - b.severity,
+		ID: (a, b) => a[0] - b[0],
+		author: (a, b) => a[1].author.localeCompare(b[1].author),
+		severity: (a, b) => a[1].severity - b[1].severity,
 	};
 	let currentId = 0;
 	const displayEl = null;
-	const reports = new Map();
+	let reports = new Map();
 	let status = 'Open';
 	function report(author, description, reproducible, severity) {
 		const currReport = {
@@ -33,9 +33,18 @@ function solve() {
 		reports.delete(id);
 	}
 	function sort(method) {
-		for (const item of reports.entries()) {
-			console.log(item);
+		const reportsEntries = Array.from(reports.entries());
+		if (method == 'ID') {
+			reportsEntries.sort((a, b) => comparator.ID(a, b));
+		} else if (method == 'author') {
+			reportsEntries.sort((a, b) => comparator.author(a, b));
+		} else if (method == 'severity') {
+			reportsEntries.sort((a, b) => comparator.severity(a, b));
 		}
+		reports = reportsEntries.reduce((acc, curr) => {
+			acc.set(curr[0], curr[1]);
+			return acc;
+		}, new Map());
 	}
 	function render() {}
 	function output(selector) {
@@ -50,5 +59,7 @@ function solve() {
 	};
 }
 var tracker = solve();
-tracker.report('Peter', 'A big bug', true, 10);
-tracker.sort();
+tracker.report('Gosho', 'A big bug', true, 10);
+tracker.report('Asen', 'Buggy', true, 5);
+tracker.report('Sasho', 'Annoying bug', true, 1);
+tracker.sort('author');
