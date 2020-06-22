@@ -1,0 +1,10 @@
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.exe
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.deps.json
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.json
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.dev.json
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.dll
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.pdb
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfoInputs.cache
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfo.cs
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.dll
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.pdb

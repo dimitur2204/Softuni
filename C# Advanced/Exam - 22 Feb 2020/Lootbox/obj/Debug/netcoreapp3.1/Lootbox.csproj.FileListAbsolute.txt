@@ -1,0 +1,11 @@
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csprojAssemblyReference.cache
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+C:\Softuni\C# Advanced\Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBox", "Generic Box of String\GenericBox.csproj", "{280D6F28-72D6-4219-8173-8C88B8E34237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{CC630DD7-6761-4B40-8A67-62516C3D1C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280D6F28-72D6-4219-8173-8C88B8E34237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280D6F28-72D6-4219-8173-8C88B8E34237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280D6F28-72D6-4219-8173-8C88B8E34237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280D6F28-72D6-4219-8173-8C88B8E34237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC630DD7-6761-4B40-8A67-62516C3D1C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC630DD7-6761-4B40-8A67-62516C3D1C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC630DD7-6761-4B40-8A67-62516C3D1C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC630DD7-6761-4B40-8A67-62516C3D1C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B961F76-320E-4A65-A343-2BA3EE2A6411}
+	EndGlobalSection
+EndGlobal

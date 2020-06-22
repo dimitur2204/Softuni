@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Advanced\\CreatingCustomStrucutres - Workshop\\CreatingCustomStrucutres\\CreatingCustomStrucutres.csproj",
-      "projectName": "CreatingCustomStrucutres",
-      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Advanced\\CreatingCustomStrucutres - Workshop\\CreatingCustomStrucutres\\CreatingCustomStrucutres.csproj",
+      "projectUniqueName": "C:\\Softuni\\C# Advanced\\CreatingCustomStrucutres - Workshop\\CreatingCustomStrucutres\\CustomDoublyLinkedList.csproj",
+      "projectName": "CustomDoublyLinkedList",
+      "projectPath": "C:\\Softuni\\C# Advanced\\CreatingCustomStrucutres - Workshop\\CreatingCustomStrucutres\\CustomDoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# Advanced\\CreatingCustomStrucutres - Workshop\\CreatingCustomStrucutres\\obj\\",
+      "outputPath": "C:\\Softuni\\C# Advanced\\CreatingCustomStrucutres - Workshop\\CreatingCustomStrucutres\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

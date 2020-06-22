@@ -1,17 +1,17 @@
 ﻿
-namespace CreatingCustomStrucutres
+namespace CustomDoublyLinkedList
 {
     using System;
-    public class DoublyLinkedList
+    public class CustomDoublyLinkedList<T>
     {
         private class ListNode
         {
-            public ListNode(int value)
+            public ListNode(T value)
             {
                 this.Value = value;
             }
 
-            public int Value { get;  }
+            public T Value { get;  }
             public ListNode NextNode { get; set; }
             public ListNode PreviousNode { get; set; }
         }
@@ -19,13 +19,13 @@ namespace CreatingCustomStrucutres
         private ListNode headNode;
         private ListNode tailNode;
 
-        public DoublyLinkedList()
+        public CustomDoublyLinkedList()
         {
 
         }
 
         public int Count { get; set; }
-        public void AddFirst(int element)
+        public void AddFirst(T element)
         {
             if (this.headNode == null)
             {
@@ -42,7 +42,7 @@ namespace CreatingCustomStrucutres
             this.Count++;
         }
 
-        public void AddLast(int element)
+        public void AddLast(T element)
         {
             if (this.tailNode == null)
             {
@@ -60,7 +60,7 @@ namespace CreatingCustomStrucutres
             this.Count++;
         }
 
-        public int RemoveFirst()
+        public T RemoveFirst()
         {
             if (this.Count == 0)
             {
@@ -73,7 +73,7 @@ namespace CreatingCustomStrucutres
             return value;
         }
 
-        public int RemoveLast()
+        public T RemoveLast()
         {
             if (this.Count == 0)
             {
@@ -86,7 +86,7 @@ namespace CreatingCustomStrucutres
             return value;
         }
 
-        public void ForEach(Action<int> action)
+        public void ForEach(Action<T> action)
         {
             var currEl = this.headNode;
             while (currEl != null)
@@ -96,10 +96,10 @@ namespace CreatingCustomStrucutres
             }
         }
 
-        public int[] ToArray()
+        public T[] ToArray()
         {
             var currEl = this.headNode;
-            var arr = new int[this.Count];
+            var arr = new T[this.Count];
             var index = 0;
             while (currEl != null)
             {

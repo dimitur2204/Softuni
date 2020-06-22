@@ -4,10 +4,10 @@ using Microsoft.VisualBasic;
 
 namespace CreatingCustomStrucutres
 {
-    class CoolList
+    public class CoolList<T>
     {
         private int capacity;
-        private int[] data;
+        private T[] data;
         public int Count { get; private set; }
 
         public CoolList():
@@ -18,10 +18,10 @@ namespace CreatingCustomStrucutres
         public CoolList(int capacity)
         {
             this.capacity = capacity;
-            this.data = new int[capacity];
+            this.data = new T[capacity];
         }
 
-        public void Add(int element)
+        public void Add(T element)
         {
             if (this.Count == data.Length - 1)
             {
@@ -41,7 +41,7 @@ namespace CreatingCustomStrucutres
             this.data[index2] = temp;
         }
 
-        public int RemoveAt(int index)
+        public T RemoveAt(int index)
         {
             if (this.Count == this.capacity/2)
             {
@@ -60,11 +60,11 @@ namespace CreatingCustomStrucutres
 
         public void Clear()
         {
-            this.data = new int[this.capacity];
+            this.data = new T[this.capacity];
             this.Count = 0;
         }
 
-        public int this[int index]
+        public T this[int index]
         {
             get
             {
@@ -80,7 +80,7 @@ namespace CreatingCustomStrucutres
 
         private void Shrink()
         {
-            var resizedData = new int[capacity / 2];
+            var resizedData = new T[capacity / 2];
             this.capacity /= 2;
             for (int i = 0; i < resizedData.Length; i++)
             {
@@ -91,7 +91,7 @@ namespace CreatingCustomStrucutres
         }
         private void Resize()
         {
-            var resizedData = new int[capacity * 2];
+            var resizedData = new T[capacity * 2];
             this.capacity *= 2;
             for (int i = 0; i < this.data.Length; i++)
             {
