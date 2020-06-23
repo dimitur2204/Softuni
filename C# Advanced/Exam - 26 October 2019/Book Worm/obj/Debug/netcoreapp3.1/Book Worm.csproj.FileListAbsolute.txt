@@ -1,0 +1,11 @@
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.exe
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.deps.json
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.runtimeconfig.json
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.runtimeconfig.dev.json
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.dll
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\bin\Debug\netcoreapp3.1\Book Worm.pdb
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.csprojAssemblyReference.cache
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.AssemblyInfoInputs.cache
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.AssemblyInfo.cs
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.dll
+C:\Softuni\C# Advanced\Exam - 26 October 2019\Book Worm\obj\Debug\netcoreapp3.1\Book Worm.pdb

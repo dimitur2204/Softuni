@@ -17,6 +17,11 @@ namespace Guild
         }
         public string Name { get; private set; }
         public int Count => this.roster.Count;
+        public int Capacity
+        {
+            get => this.capacity;
+            set => this.capacity = value;
+        }
 
         public void AddPlayer(Player player)
         {
@@ -28,7 +33,7 @@ namespace Guild
 
         public bool RemovePlayer(string name)
         {
-            return roster.Remove(roster.Find(x => x.Name == name));
+            return roster.Remove(roster.FirstOrDefault(x => x.Name == name));
         }
 
         public void PromotePlayer(string name)

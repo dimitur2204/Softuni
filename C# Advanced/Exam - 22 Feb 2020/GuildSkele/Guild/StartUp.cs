@@ -11,8 +11,7 @@ namespace Guild
             guild.AddPlayer(new Player("otherone", "rogue"));
             guild.PromotePlayer("someone");
             guild.DemotePlayer("someone");
-            Console.WriteLine(guild.Count);
-
+            Console.WriteLine(guild.RemovePlayer("asdf"));
         }
     }
 }

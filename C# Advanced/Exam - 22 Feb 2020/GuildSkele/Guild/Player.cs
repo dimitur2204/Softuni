@@ -19,7 +19,11 @@ namespace Guild
         public string Description { get; set; }
         public override string ToString()
         {
-            return $"Player {Name}: {Class}\nRank: {Rank}\nDescription: {Description}".Trim();
+            var report = new StringBuilder();
+            report.AppendLine($"Player {Name}: {Class}");
+            report.AppendLine($"Rank: {Rank}");
+            report.AppendLine($"Description: {Description}");
+            return report.ToString().Trim();
         }
     }
 }
