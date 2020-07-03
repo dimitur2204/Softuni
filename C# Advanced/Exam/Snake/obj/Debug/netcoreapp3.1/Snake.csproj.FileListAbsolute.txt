@@ -1,0 +1,11 @@
+C:\Softuni\C# Advanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Softuni\C# Advanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Softuni\C# Advanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Softuni\C# Advanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Softuni\C# Advanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Softuni\C# Advanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Softuni\C# Advanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Softuni\C# Advanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Softuni\C# Advanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Softuni\C# Advanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Softuni\C# Advanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.pdb

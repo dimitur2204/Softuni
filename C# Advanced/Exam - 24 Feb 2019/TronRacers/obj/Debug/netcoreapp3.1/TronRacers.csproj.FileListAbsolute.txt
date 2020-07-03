@@ -1,0 +1,11 @@
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.exe
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.deps.json
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.json
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.dev.json
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.dll
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csprojAssemblyReference.cache
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfoInputs.cache
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfo.cs
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.dll
+C:\Softuni\C# Advanced\Exam - 24 Feb 2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.pdb

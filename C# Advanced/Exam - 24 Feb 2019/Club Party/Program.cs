@@ -8,27 +8,46 @@ namespace Club_Party
     {
         static void Main(string[] args)
         {
-            var hallMaxCap = int.Parse(Console.ReadLine());
-            var halls = new Queue<Tuple<char,int>>();
-            var input = new Stack<char>(Console.ReadLine()
-                .Split(' ',StringSplitOptions.RemoveEmptyEntries)
-                .Select(char.Parse));
+            var maxCap = long.Parse(Console.ReadLine());
+            var input = new Stack<string>(Console.ReadLine().Split(' ',StringSplitOptions.RemoveEmptyEntries));
+            var halls = new Dictionary<char, List<long>>();
             while (input.Any())
             {
-                var item = input.Pop();
-                if (char.IsDigit(item))
+                var element = input.Pop();
+                if (Char.TryParse(element,out char hall1) && Char.IsLetter(hall1))
                 {
-                    var value = int.Parse(item.ToString());
-                    var hallValue = halls.Peek().Item2;
-                    if (hallValue + value <= hallMaxCap)
+                    if (!halls.ContainsKey(hall1))
                     {
-                        halls.Peek().Item2 += value;
+                        halls.Add(hall1, new List<long>());
                     }
                 }
                 else
                 {
-                    halls.Enqueue(new Tuple<char, int>(item,0));
+                    var reservation = long.Parse(element);
+                    if (halls.Any())
+                    {
+                        foreach (var (hall, value) in halls)
+                        {
+                            if (value.Sum() + reservation <= maxCap)
+                            {
+                                halls[hall].Add(reservation);
+                                break;
+                            }
+
+                            PrintHall(hall,value);
+                            halls.Remove(hall);
+                        }
+                    }
                 }
+            }
+        }
+
+        static void PrintHall(char hall, List<long> reservations)
+        {
+            //a -> 20, 20, 20
+            if (reservations.Any())
+            {
+                Console.WriteLine(hall + " -> " + String.Join(", ", reservations));
             }
         }
     }
