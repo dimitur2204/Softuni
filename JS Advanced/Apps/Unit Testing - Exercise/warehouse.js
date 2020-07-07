@@ -116,4 +116,4 @@ class Warehouse {
 		return output;
 	}
 }
-module.exports = Warehouse;
+module.exports = { Warehouse };

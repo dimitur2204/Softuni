@@ -59,11 +59,34 @@ describe('Payment Package tests', function () {
 			pack.VAT.should.equal(10);
 		});
 		it('Should throw Error when active is not bool', function () {
-			pack.active = true;
+			//TODO: Check for active setter test.
+			const activeNotBool = () => {
+				pack.active = 5;
+			};
+			activeNotBool.should.throw(Error);
 		});
 		it('Should set active correctly when active is bool', function () {
-			pack.VAT = 10;
-			pack.VAT.should.equal(10);
+			pack.active = true;
+			pack.active.should.equal(true);
+		});
+	});
+	describe('Methods tests', function () {
+		it('Should return correct string when active', function () {
+			pack = new package.PaymentPackage('HR Services', 1500);
+			pack
+				.toString()
+				.should.equal(
+					`Package: HR Services\n- Value (excl. VAT): 1500\n- Value (VAT 20%): 1800`
+				);
+		});
+		it('Should return correct string when inactive', function () {
+			pack = new package.PaymentPackage('HR Services', 1500);
+			pack.active = false;
+			pack
+				.toString()
+				.should.equal(
+					`Package: HR Services (inactive)\n- Value (excl. VAT): 1500\n- Value (VAT 20%): 1800`
+				);
 		});
 	});
 });
