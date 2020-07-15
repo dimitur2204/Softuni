@@ -1,4 +1,4 @@
-function loadCanvas(player) {
+export function loadCanvas(player) {
 	let canvas = document.getElementById('canvas');
 	let ctx = canvas.getContext('2d');
 
