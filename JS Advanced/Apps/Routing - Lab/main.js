@@ -10,18 +10,39 @@
 		const myFurnitureTemplateString = await fetch(
 			"./templates/partials/my-furniture-partial.hbs"
 		).then((res) => res.text());
-		Handlebars.registerPartial("furniture", furnitureTemplateString);
+		Handlebars.registerPartial({
+			furniture: furnitureTemplateString,
+			myFurniture: myFurnitureTemplateString,
+		});
 	})();
-	const app = Sammy("#container", function () {
-		this.get("/#/home", async () => {
+	const app = Sammy("#container", async function () {
+		this.get("#/furniture/all", async () => {
 			const furnitureData = await fetch(BASE_URL).then((res) => res.json());
 			const furnitureTemplateString = await fetch(
 				"./templates/all-furniture.hbs"
 			).then((res) => res.text());
 			const furnitureTemplate = Handlebars.compile(furnitureTemplateString);
-			const furnitureHTML = furnitureTemplate(furnitureData);
+			const furnitureHTML = furnitureTemplate({ furnitureData });
 			this.swap(furnitureHTML);
 		});
+		this.get("#/furniture/create", async () => {
+			const createHTML = await fetch(
+				"./templates/create-furniture.hbs"
+			).then((res) => res.text());
+			this.swap(createHTML);
+			const inputs = {
+				make: document.querySelector("#new-make"),
+				model: document.querySelector("#new-model"),
+				year: document.querySelector("#new-year"),
+				description: document.querySelector("#new-description"),
+				price: document.querySelector("#new-price"),
+				image: document.querySelector("#new-image"),
+				material: document.querySelector("#new-material"),
+			};
+			const submitBtn = document.querySelector("div.col-md-4>input.btn");
+			const submitClick = async () => {};
+			submitBtn.addEventListener("click", submitClick);
+		});
 	});
-	app.run();
+	app.run("#/");
 })();
