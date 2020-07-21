@@ -1,3 +1,4 @@
+import { getTeam } from '../data.js';
 export default async function details() {
 	this.partials = {
 		header: await this.load('./templates/common/header.hbs'),
@@ -6,11 +7,8 @@ export default async function details() {
 		teamMember: await this.load('./templates/catalog/teamMember.hbs'),
 		teamControls: await this.load('./templates/catalog/teamControls.hbs'),
 	};
-	const team = {
-		teamId: '123',
-		name: 'Marek',
-		comment: 'A nice team',
-		members: [{ username: 'peter' }, { username: 'mari' }],
-	};
-	this.partial('./templates/catalog/details.hbs', team);
+	const id = this.params.id;
+	const team = await getTeam(id);
+	const data = Object.assign(team, this.app.userData);
+	this.partial('./templates/catalog/details.hbs', data);
 }

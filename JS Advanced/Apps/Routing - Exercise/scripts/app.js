@@ -7,18 +7,14 @@ import {
 	registerPost,
 	login,
 	loginPost,
+	logout,
 } from './controllers/user.js';
 import { create, createPost } from './controllers/create.js';
 import edit from './controllers/edit.js';
 $(() => {
 	//TODO: Team adding, user session etc.
 	const app = Sammy('#main', function () {
-		this.userData = {
-			loggedIn: false,
-			hasTeam: false,
-			isAuthor: false,
-			isOnTeam: false,
-		};
+		this.userData = {};
 		this.use('Handlebars', 'hbs');
 
 		this.get('#/home', home);
@@ -35,6 +31,7 @@ $(() => {
 
 		this.get('#/register', register);
 		this.get('#/login', login);
+		this.get('#/logout', logout);
 
 		this.post('#/create', (ctx) => {
 			createPost.call(ctx);

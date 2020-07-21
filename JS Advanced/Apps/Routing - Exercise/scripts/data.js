@@ -4,6 +4,9 @@ const host = (endpoint) => {
 const endpoints = {
 	REGISTER: 'users/register',
 	LOGIN: 'users/login',
+	LOGOUT: 'users/logout',
+	TEAMS: 'data/teams',
+	USERS: 'users',
 };
 export const registerUser = async (username, password) => {
 	return fetch(host(endpoints.REGISTER), {
@@ -24,4 +27,51 @@ export const loginUser = async (username, password) => {
 		}),
 		'Content-type': 'application/json',
 	}).then((res) => res.json());
+};
+export const logoutUser = async (token) => {
+	return fetch(host(endpoints.LOGOUT), {
+		method: 'GET',
+		headers: {
+			'user-token': token,
+			'Content-type': 'application/json',
+		},
+	}).then((res) => res.json());
+};
+export const createTeam = async (team, token) => {
+	return fetch(host(endpoints.TEAMS), {
+		method: 'POST',
+		headers: {
+			'user-token': token,
+			'Content-type': 'application/json',
+		},
+		body: JSON.stringify(team),
+	}).then((res) => res.json());
+};
+export const setUserTeam = async (userId, teamId) => {
+	return fetch(host(endpoints.USERS + `/${userId}`), {
+		method: 'PUT',
+		headers: {
+			'user-token': token,
+			'Content-type': 'application/json',
+		},
+		body: JSON.stringify({
+			teamId,
+		}),
+	});
+};
+export const getTeams = async () => {
+	return fetch(host(endpoints.TEAMS), {
+		headers: {
+			'Content-type': 'application/json',
+		},
+	}).then((res) => res.json());
+};
+export const getTeam = async (id) => {
+	return fetch(
+		host(endpoints.TEAMS + `/${id}`, {
+			headers: {
+				'Content-type': 'application/json',
+			},
+		})
+	).then((res) => res.json());
 };
