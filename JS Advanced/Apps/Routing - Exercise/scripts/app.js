@@ -9,7 +9,7 @@ import {
 	loginPost,
 	logout,
 } from './controllers/user.js';
-import { create, createPost } from './controllers/create.js';
+import { create, createPost, join, leave } from './controllers/create.js';
 import edit from './controllers/edit.js';
 $(() => {
 	//TODO: Team adding, user session etc.
@@ -26,6 +26,8 @@ $(() => {
 		this.get('#/catalog', catalog);
 		this.get('#/catalog/:id', details);
 		this.get('#/edit', edit);
+		this.get('#/join/:id', join);
+		this.get('#/leave', leave);
 
 		this.get('#/create', create);
 

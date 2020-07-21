@@ -1,5 +1,9 @@
-import { getTeam } from '../data.js';
+import { getTeam, getUsers } from '../data.js';
 export default async function details() {
+	if (!this.app.userData.loggedIn) {
+		alert('Login first');
+		return;
+	}
 	this.partials = {
 		header: await this.load('./templates/common/header.hbs'),
 		footer: await this.load('./templates/common/footer.hbs'),
@@ -9,6 +13,14 @@ export default async function details() {
 	};
 	const id = this.params.id;
 	const team = await getTeam(id);
-	const data = Object.assign(team, this.app.userData);
+	const users = await getUsers();
+	const members = users.reduce((acc, curr) => {
+		if (curr.teamId === id) {
+			acc.push(curr);
+		}
+		return acc;
+	}, []);
+	team.members = members;
+	const data = Object.assign(this.app.userData, team);
 	this.partial('./templates/catalog/details.hbs', data);
 }

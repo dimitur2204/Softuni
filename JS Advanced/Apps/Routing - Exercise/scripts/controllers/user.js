@@ -37,8 +37,7 @@ export async function registerPost() {
 	this.redirect('#/login');
 }
 export async function loginPost() {
-	const userData = this.app.userData;
-	if (userData.loggedIn) {
+	if (this.app.userData.loggedIn) {
 		alert('Already logged in');
 		return;
 	}
@@ -49,10 +48,12 @@ export async function loginPost() {
 			return;
 		}
 		const userSession = await loginUser(userCreds.username, userCreds.password);
-		userData.hasTeam = userSession.teamId ? true : false;
-		userData.username = userSession.username;
-		userData.loggedIn = true;
-		userData.userId = userSession.objectId;
+		this.app.userData.hasTeam = userSession.teamId ? true : false;
+		this.app.userData.isOnTeam = userSession.teamId ? true : false;
+		this.app.userData.teamId = userSession.teamId;
+		this.app.userData.username = userSession.username;
+		this.app.userData.loggedIn = true;
+		this.app.userData.userId = userSession.objectId;
 		localStorage.setItem('user-token', userSession['user-token']);
 		this.redirect('#/home');
 	} catch (err) {

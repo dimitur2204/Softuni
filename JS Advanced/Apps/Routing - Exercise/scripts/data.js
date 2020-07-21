@@ -7,6 +7,7 @@ const endpoints = {
 	LOGOUT: 'users/logout',
 	TEAMS: 'data/teams',
 	USERS: 'users',
+	USERS_DATA: 'data/users',
 };
 export const registerUser = async (username, password) => {
 	return fetch(host(endpoints.REGISTER), {
@@ -35,7 +36,7 @@ export const logoutUser = async (token) => {
 			'user-token': token,
 			'Content-type': 'application/json',
 		},
-	}).then((res) => res.json());
+	});
 };
 export const createTeam = async (team, token) => {
 	return fetch(host(endpoints.TEAMS), {
@@ -51,7 +52,6 @@ export const setUserTeam = async (userId, teamId) => {
 	return fetch(host(endpoints.USERS + `/${userId}`), {
 		method: 'PUT',
 		headers: {
-			'user-token': token,
 			'Content-type': 'application/json',
 		},
 		body: JSON.stringify({
@@ -74,4 +74,7 @@ export const getTeam = async (id) => {
 			},
 		})
 	).then((res) => res.json());
+};
+export const getUsers = async () => {
+	return fetch(host(endpoints.USERS_DATA)).then((res) => res.json());
 };
