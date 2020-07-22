@@ -1,0 +1,7 @@
+export async function cinema() {
+	this.partials = {
+		header: await this.load('../../templates/common/header.hbs'),
+		footer: await this.load('../../templates/common/footer.hbs'),
+	};
+	this.partial('../../templates/catalog/cinema.hbs');
+}
