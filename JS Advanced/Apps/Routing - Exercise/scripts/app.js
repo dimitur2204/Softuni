@@ -10,9 +10,9 @@ import {
 	logout,
 } from './controllers/user.js';
 import { create, createPost, join, leave } from './controllers/create.js';
-import edit from './controllers/edit.js';
+import { edit, editPost } from './controllers/edit.js';
 $(() => {
-	//TODO: Team adding, user session etc.
+	//TODO: Team editing, try catch blocks for the fetches
 	const app = Sammy('#main', function () {
 		this.userData = {};
 		this.use('Handlebars', 'hbs');
@@ -25,7 +25,7 @@ $(() => {
 
 		this.get('#/catalog', catalog);
 		this.get('#/catalog/:id', details);
-		this.get('#/edit', edit);
+		this.get('#/edit/:id', edit);
 		this.get('#/join/:id', join);
 		this.get('#/leave', leave);
 
@@ -44,6 +44,10 @@ $(() => {
 		});
 		this.post('#/login', (ctx) => {
 			loginPost.call(ctx);
+		});
+
+		this.post('#/edit/:id', (ctx) => {
+			editPost.call(ctx);
 		});
 	});
 	app.run();

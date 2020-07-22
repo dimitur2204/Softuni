@@ -78,3 +78,9 @@ export const getTeam = async (id) => {
 export const getUsers = async () => {
 	return fetch(host(endpoints.USERS_DATA)).then((res) => res.json());
 };
+export const updateTeam = async (id, team) => {
+	return fetch(host(endpoints.TEAMS + '/' + id), {
+		method: 'PUT',
+		body: JSON.stringify(team),
+	}).then((res) => res.json());
+};

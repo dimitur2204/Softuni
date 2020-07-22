@@ -20,6 +20,9 @@ export default async function details() {
 		}
 		return acc;
 	}, []);
+	if (this.app.userData.userId === team.ownerId) {
+		this.app.userData.isAuthor = true;
+	}
 	team.members = members;
 	const data = Object.assign(this.app.userData, team);
 	this.partial('./templates/catalog/details.hbs', data);
