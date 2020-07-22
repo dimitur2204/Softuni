@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\PizzaCalories\\PizzaCalories.csproj",
+      "projectUniqueName": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\PizzaCalories\\PizzaCalories.csproj",
       "projectName": "PizzaCalories",
-      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\PizzaCalories\\PizzaCalories.csproj",
+      "projectPath": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\PizzaCalories\\PizzaCalories.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\PizzaCalories\\obj\\",
+      "outputPath": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\PizzaCalories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

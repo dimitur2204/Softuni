@@ -1,0 +1,11 @@
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Retake 19 Dec\Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.pdb

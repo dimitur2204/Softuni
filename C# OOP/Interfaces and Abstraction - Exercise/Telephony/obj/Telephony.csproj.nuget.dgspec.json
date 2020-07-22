@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj": {}
+    "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj": {
+    "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj",
+        "projectUniqueName": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj",
         "projectName": "Telephony",
-        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj",
+        "projectPath": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\Telephony.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\obj\\",
+        "outputPath": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\Telephony\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

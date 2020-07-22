@@ -70,7 +70,6 @@ function solve() {
 		remove,
 		sort,
 		output,
-		render,
 	};
 }
 let tracker = solve();

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
+      "projectUniqueName": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
       "projectName": "ExplicitInterfaces",
-      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
+      "projectPath": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\obj\\",
+      "outputPath": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj": {}
+    "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj": {
+    "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj",
+        "projectUniqueName": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj",
         "projectName": "BoxFormulas",
-        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj",
+        "projectPath": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\BoxFormulas.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\obj\\",
+        "outputPath": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\BoxFormulas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

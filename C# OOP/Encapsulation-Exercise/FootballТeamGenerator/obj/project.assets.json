@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\FootballТeamGenerator\\FootballТeamGenerator.csproj",
+      "projectUniqueName": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\FootballТeamGenerator\\FootballТeamGenerator.csproj",
       "projectName": "FootballТeamGenerator",
-      "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\FootballТeamGenerator\\FootballТeamGenerator.csproj",
+      "projectPath": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\FootballТeamGenerator\\FootballТeamGenerator.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Encapsulation-Exercise\\FootballТeamGenerator\\obj\\",
+      "outputPath": "C:\\Softuni\\C# OOP\\Encapsulation-Exercise\\FootballТeamGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj": {}
+    "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj": {
+    "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj",
+        "projectUniqueName": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj",
         "projectName": "BorderControl",
-        "projectPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj",
+        "projectPath": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\BorderControl.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\OneDrive\\Desktop\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\obj\\",
+        "outputPath": "C:\\Softuni\\C# OOP\\Interfaces and Abstraction - Exercise\\BorderControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
