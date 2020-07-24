@@ -17,7 +17,6 @@ export async function cinema() {
 	const movies = await getMovies();
 	this.app.userData.movies = movies;
 	if (this.params.search) {
-		console.log(this.params.search);
 		this.app.userData.movies = this.app.userData.movies.filter((m) =>
 			m.genres.includes(this.params.search)
 		);

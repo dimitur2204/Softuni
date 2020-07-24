@@ -1,0 +1,11 @@
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Softuni\C# OOP\Exam Preparation\C# OOP Exam - 15 Dec\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
