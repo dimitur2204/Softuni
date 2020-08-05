@@ -11,14 +11,32 @@ export async function login() {
 	};
 	this.partial('../../templates/user/login.hbs', this.app.userData);
 }
+const validateInfo = (info) => {
+	if (info.username.length < 3) {
+		showError('Username should be atleast 3 symbols');
+		return false;
+	}
+	if (info.password.length < 6) {
+		showError('Password should be atleast 6 symbols');
+		return false;
+	}
+	if (info.repeatPassword && info.password !== info.repeatPassword) {
+		showError('Passwords do not match');
+		return false;
+	}
+	return true;
+};
 export async function loginPost() {
 	const info = this.params;
+	if (!validateInfo(info)) {
+		return;
+	}
 	const result = await loginUser(info.username, info.password);
-	if (result.hasOwnProperty('errorData') === false) {
-		this.app.userData = {
-			username: localStorage.getItem('username'),
-			userId: localStorage.getItem('userId'),
-		};
+	this.app.userData = {
+		username: localStorage.getItem('username'),
+		userId: localStorage.getItem('userId'),
+	};
+	if (result) {
 		this.redirect('#/home');
 	}
 }
@@ -31,20 +49,11 @@ export async function register() {
 }
 export async function registerPost() {
 	const info = this.params;
-	if (info.username.length < 3) {
-		showError('Username should be atleast 3 symbols');
-		return;
-	}
-	if (info.password.length < 6) {
-		showError('Password should be atleast 6 symbols');
-		return;
-	}
-	if (info.password !== info.repeatPassword) {
-		showError('Passwords do not match');
+	if (!validateInfo(info)) {
 		return;
 	}
 	const result = await registerUser(info.username, info.password);
-	if (result.hasOwnProperty('errorData') === false) {
+	if (result) {
 		this.redirect('#/login');
 	}
 }

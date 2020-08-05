@@ -37,8 +37,9 @@ const get = async (endpoint) => {
 		console.error(err.message);
 		showError(err.message);
 		return false;
+	} finally {
+		closeLoading();
 	}
-	closeLoading();
 	return result;
 };
 const post = async (endpoint, body) => {
@@ -59,8 +60,9 @@ const post = async (endpoint, body) => {
 		console.error(err.message);
 		showError(err.message);
 		return false;
+	} finally {
+		closeLoading();
 	}
-	closeLoading();
 	return result;
 };
 const put = async (endpoint, body) => {
@@ -81,8 +83,9 @@ const put = async (endpoint, body) => {
 		console.error(err.message);
 		showError(err.message);
 		return false;
+	} finally {
+		closeLoading();
 	}
-	closeLoading();
 
 	return result;
 };
