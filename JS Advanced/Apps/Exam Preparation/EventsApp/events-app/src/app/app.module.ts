@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import {HttpClientModule} from '@angular/common/http';
+import {FormsModule} from '@angular/forms';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -18,8 +19,6 @@ import { LoadingComponent } from './components/utils/loading/loading.component';
 import { SuccessComponent } from './components/utils/success/success.component';
 import { ErrorComponent } from './components/utils/error/error.component';
 import {AppRoutingModule} from './modules/routing/routing.module';
-import {HttpClientModule} from '@angular/common/http';
-import {FormsModule} from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,

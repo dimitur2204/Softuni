@@ -1,14 +1,16 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { NotificationService } from 'src/app/services/notification.service';
+import { Subscription } from 'rxjs';
 
 @Component({
   selector: 'app-loading',
   templateUrl: './loading.component.html',
   styleUrls: ['./loading.component.css']
 })
-export class LoadingComponent implements OnInit {
+export class LoadingComponent implements OnInit, OnDestroy {
 
   public shown = 'none';
+  private sub:Subscription;
   constructor(private notiService:NotificationService) { }
 
   ngOnInit(): void {
@@ -20,5 +22,7 @@ export class LoadingComponent implements OnInit {
       }
     })
   }
-
+  ngOnDestroy(): void {
+    this.sub.unsubscribe();
+  }
 }

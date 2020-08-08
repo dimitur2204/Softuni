@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
 import { NotificationService } from 'src/app/services/notification.service';
 import {AuthenticationService} from '../../../services/authentication.service';
+import { Router } from '@angular/router';
 @Component({
   selector: 'app-sign-up',
   templateUrl: './sign-up.component.html',
@@ -9,7 +10,7 @@ import {AuthenticationService} from '../../../services/authentication.service';
 })
 export class SignUpComponent implements OnInit {
 
-  constructor(private notiService:NotificationService,private authService:AuthenticationService) {
+  constructor(private notiService:NotificationService, private authService:AuthenticationService, private router:Router) {
    }
 
   ngOnInit(): void {
@@ -27,5 +28,7 @@ export class SignUpComponent implements OnInit {
       return;
     }
     this.authService.signUp(form.value.email,form.value.password);
+    form.reset();
+    this.router.navigate(['home']);
   }
 }
