@@ -16,7 +16,6 @@ export class SignUpComponent implements OnInit {
   ngOnInit(): void {
   }
   onSubmit(form:NgForm){
-    console.log(form.controls.email);
     if (form.controls.email.errors?.required) {
       this.notiService.showError('Username has to be more than 3 symbols');
       return;

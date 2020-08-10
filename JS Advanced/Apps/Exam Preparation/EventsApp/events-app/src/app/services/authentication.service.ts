@@ -1,6 +1,10 @@
 import { Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
+import { BehaviorSubject } from 'rxjs';
+
+import {User} from '../components/user/user.model';
 import { NotificationService } from './notification.service';
+import { Router } from '@angular/router';
 const urls = {
   signIn:'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyCdeeDMM9LpTFvKr4E1_pjA5lXtI4tCMUU', signUp:'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyCdeeDMM9LpTFvKr4E1_pjA5lXtI4tCMUU',
 }
@@ -22,7 +26,11 @@ export interface IUserCredentials{
 })
 export class AuthenticationService {
 
-  constructor(private http:HttpClient,private notiService:NotificationService) { }
+  public user:BehaviorSubject<User> = new BehaviorSubject<User>(null);
+
+  constructor(private http:HttpClient
+    ,private notiService:NotificationService,
+    private router:Router) { }
 
   private catch(errData){
     const message = errData.error.error.message;
@@ -37,6 +45,15 @@ export class AuthenticationService {
     }
   }
 
+  private authenticateUser(res:IUserData){
+    this.autoSignOut(Number(res.expiresIn) * 1000);
+    const expirationDate = new Date(new Date().getTime() + Number(res.expiresIn) * 1000);
+    const userCreated = new User(res.email,res.localId,res.idToken,expirationDate);
+    localStorage.setItem('user',JSON.stringify(userCreated));
+    this.user.next(userCreated);
+    this.router.navigate(['/']);
+  }
+
   public signUp(email,password){
     const userCreds:IUserCredentials = {
       email,
@@ -45,7 +62,7 @@ export class AuthenticationService {
     }
     this.notiService.toggleLoading();
     this.http.post<IUserData>(urls.signUp,userCreds).subscribe(res => {
-      console.log(res);
+      this.authenticateUser(res);
       this.notiService.toggleLoading();
       this.notiService.showSuccess('Succesfully registered!');
     },errData =>this.catch(errData));
@@ -59,8 +76,28 @@ export class AuthenticationService {
     }
     this.notiService.toggleLoading();
     this.http.post<IUserData>(urls.signIn,userCreds).subscribe(res => {
+      this.authenticateUser(res);
       this.notiService.toggleLoading();
       this.notiService.showSuccess('Succesfully logged in!');
     },errData =>this.catch(errData));
+  }
+  public autoSignIn(){
+    const userString:string = localStorage.getItem('user');
+    if (!userString){
+      return;
+    } 
+    const user:User = JSON.parse(userString);
+    if(new Date(user.expirationDate).getTime() > new Date().getTime()) {
+      this.user.next(user);
+      return;
+    }
+    this.user.next(null);
+  }
+  public signOut(){
+    localStorage.removeItem('user');
+    this.user.next(null);
+  }
+  private autoSignOut(ms){
+    setTimeout(this.signOut,ms);
   }
 }

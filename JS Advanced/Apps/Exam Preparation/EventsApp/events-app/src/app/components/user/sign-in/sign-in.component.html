@@ -1,4 +1,4 @@
-<form action="#" method="post">
+<form #form="ngForm" (ngSubmit)="onSubmit(form)">
 
     <div class="text-center mb-4">
       <h1 class="h3 mb-3 font-weight-normal">Sign-In</h1>
@@ -6,21 +6,28 @@
     </div>
 
     <div class="form-label-group">
-      <input type="text" id="inputUsername" name="username" class="form-control" placeholder="Username" required=""
-        autofocus="">
+      <input type="text" id="inputUsername" name="email" class="form-control" placeholder="Email"
+      ngModel
+      minlength="3"
+      required
+      email
+        >
       <label for="inputUsername">Username</label>
     </div>
 
     <div class="form-label-group">
-      <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required="">
+      <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" 
+      ngModel
+      required
+      minlength="6">
       <label for="inputPassword">Password</label>
     </div>
 
-    <button class="btn btn-lg btn-dark btn-block" type="submit">Sign In</button>
+    <button class="btn btn-lg btn-dark btn-block" type="submit" [disabled]="form.invalid">Sign In</button>
 
     <div class="text-center mb-4">
       <p class="alreadyUser"> Don't have account? Then just
-        <a href="#">Sign-Up</a>!
+        <a routerLink="/signUp">Sign-Up</a>!
       </p>
     </div>
 

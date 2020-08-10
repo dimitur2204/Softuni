@@ -1,6 +1,6 @@
 <nav class="site-header sticky-top py-1">
     <div class="container d-flex flex-column flex-md-row justify-content-between">
-      <a class="py-2" href="#">
+      <a class="py-2">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor"
           stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="d-block mx-auto" role="img"
           viewBox="0 0 24 24" focusable="false">
@@ -11,9 +11,9 @@
           </path>
         </svg>
       </a>
-      <a class="py-2 d-none d-md-inline-block" href="#">Organize Event</a>
-      <a class="py-2 d-none d-md-inline-block" href="#">USERNAME</a>
-      <a class="py-2 d-none d-md-inline-block" href="#">Logout</a>
-      <a class="py-2 d-none d-md-inline-block" href="#">Login</a>
+        <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" href="#">Organize Event</a>
+        <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" href="#">{{this.email}}</a>
+        <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" routerLink="/" (click)="onLogoutClicked()">Logout</a>
+        <a *ngIf="!this.isLogged" class="py-2 d-none d-md-inline-block" routerLink="/signUp">Login</a>
     </div>
   </nav>
