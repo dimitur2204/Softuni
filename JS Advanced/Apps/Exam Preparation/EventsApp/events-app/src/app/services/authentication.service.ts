@@ -39,6 +39,15 @@ export class AuthenticationService {
       case 'EMAIL_EXISTS':
         this.notiService.showError('Email already exists!');
         break;
+        case 'EMAIL_NOT_FOUND':
+        this.notiService.showError('Invalid Email!');
+        break;
+        case 'INVALID_PASSWORD':
+        this.notiService.showError('Invalid Password!');
+        break;
+        case 'USER_DISABLED':
+        this.notiService.showError('Your account has been disabled!');
+        break;
       default:
         this.notiService.showError('An error occured! Try again!')
         break;
@@ -94,6 +103,7 @@ export class AuthenticationService {
     this.user.next(null);
   }
   public signOut(){
+    this.notiService.showSuccess('Successfully logged out!');
     localStorage.removeItem('user');
     this.user.next(null);
   }

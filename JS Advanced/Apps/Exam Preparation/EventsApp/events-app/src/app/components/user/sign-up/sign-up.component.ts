@@ -28,6 +28,5 @@ export class SignUpComponent implements OnInit {
     }
     this.authService.signUp(form.value.email,form.value.password);
     form.reset();
-    this.router.navigate(['home']);
   }
 }

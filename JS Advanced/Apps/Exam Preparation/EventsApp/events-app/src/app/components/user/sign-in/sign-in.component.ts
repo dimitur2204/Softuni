@@ -26,6 +26,5 @@ export class SignInComponent implements OnInit {
     }
     this.authService.signIn(form.value.email,form.value.password);
     form.reset();
-    this.router.navigate(['home']);
   }
 }

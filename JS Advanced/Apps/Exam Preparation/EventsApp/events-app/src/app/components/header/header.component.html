@@ -11,8 +11,8 @@
           </path>
         </svg>
       </a>
-        <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" href="#">Organize Event</a>
-        <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" href="#">{{this.email}}</a>
+        <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" routerLink="/organize">Organize Event</a>
+        <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" routerLink="/profile">{{this.email}}</a>
         <a *ngIf="this.isLogged" class="py-2 d-none d-md-inline-block" routerLink="/" (click)="onLogoutClicked()">Logout</a>
         <a *ngIf="!this.isLogged" class="py-2 d-none d-md-inline-block" routerLink="/signUp">Login</a>
     </div>
