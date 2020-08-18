@@ -6,10 +6,14 @@ import { SignUpComponent } from 'src/app/components/user/sign-up/sign-up.compone
 import { SignInComponent } from 'src/app/components/user/sign-in/sign-in.component';
 import { ProfileComponent } from 'src/app/components/user/profile/profile.component';
 import { CreateEventComponent } from 'src/app/components/events/create-event/create-event.component';
+import { EventsComponent } from 'src/app/components/events/events.component';
+import { EventDetailsComponent } from 'src/app/components/events/event-details/event-details.component';
 
 const routes:Routes = [
   {path:'', component:HomeComponent},
   {path:'home', component:HomeComponent}, 
+  {path:'events', component:EventsComponent}, 
+  {path:'details/:id', component:EventDetailsComponent}, 
   {path:'signUp', component:SignUpComponent}, 
   {path:'signIn', component:SignInComponent}, 
   {path:'organize', component:CreateEventComponent}, 

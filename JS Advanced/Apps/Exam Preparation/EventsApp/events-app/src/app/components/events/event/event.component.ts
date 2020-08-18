@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-
+import { Component, OnInit, Input } from '@angular/core';
+import {Event} from '../event.model';
 @Component({
   selector: 'app-event',
   templateUrl: './event.component.html',
@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EventComponent implements OnInit {
 
+  @Input('event') event:Event;
   constructor() { }
 
   ngOnInit(): void {

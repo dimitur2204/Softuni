@@ -27,6 +27,7 @@ export class CreateEventComponent implements OnInit {
       desc,
       imageURL,
       this.authService.user.value.id);
+      form.reset();
     this.eventsService.addEvent(event);
   }
 }
