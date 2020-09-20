@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-// const cats = require('cats');
+const cats = require('../data/cats.json');
 
 module.exports = (req, res) => {
 	const filePath = path.resolve('./views/home/index.html');
@@ -15,6 +15,20 @@ module.exports = (req, res) => {
 		res.writeHead(200, {
 			'Content-Type': 'text-html',
 		});
-		res.end(data);
+		const modifiedCats = cats.map(
+			(cat) =>
+				`<li>
+			<img src="${path.join('./content/images/' + cat.image)}" alt="A Cat">
+			<h3>${cat.name}</h3>
+			<p><span>Breed: </span>${cat.breed}</p>
+			<p><span>Description: </span>${cat.description}</p>
+			<ul class="buttons">
+				<li class="btn edit"><a href="/cats/edit/${cat.id}">Change Info</a></li>
+				<li class="btn delete"><a href="/cats/find-new-home/${cat.id}">New Home</a></li>
+			</ul>
+		</li>`
+		);
+		const modifiedData = data.toString().replace('{{cats}}', modifiedCats);
+		res.end(modifiedData);
 	});
 };

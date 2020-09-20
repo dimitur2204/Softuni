@@ -14,10 +14,7 @@ http
 			req.method.toUpperCase() === 'GET'
 		) {
 			staticHandler(req, res);
-		} else if (
-			pathname.startsWith('/cats') &&
-			req.method.toUpperCase() === 'GET'
-		) {
+		} else if (pathname.startsWith('/cats')) {
 			catHandler(req, res);
 		}
 	})
