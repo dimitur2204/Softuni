@@ -6,11 +6,12 @@ const staticHandler = require('./handlers/static-files');
 const catHandler = require('./handlers/cat');
 http
 	.createServer((req, res) => {
+		const urls = req.url;
 		const pathname = url.parse(req.url).pathname;
 		if (pathname === '/' && req.method.toUpperCase() === 'GET') {
 			homeHandler(req, res);
 		} else if (
-			pathname.startsWith('/content') &&
+			pathname.includes('/content') &&
 			req.method.toUpperCase() === 'GET'
 		) {
 			staticHandler(req, res);

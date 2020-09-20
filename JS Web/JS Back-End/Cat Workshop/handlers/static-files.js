@@ -5,10 +5,10 @@ const utils = require('../utils');
 module.exports = (req, res) => {
 	const pathname = url.parse(req.url).pathname;
 	if (
-		pathname.endsWith('png') ||
-		pathname.endsWith('jpeg') ||
-		pathname.endsWith('jpg') ||
-		pathname.endsWith('ico')
+		pathname.toLowerCase().endsWith('png') ||
+		pathname.toLowerCase().endsWith('jpeg') ||
+		pathname.toLowerCase().endsWith('jpg') ||
+		pathname.toLowerCase().endsWith('ico')
 	) {
 		fs.readFile(path.resolve('.' + pathname), (err, data) => {
 			if (err) {
