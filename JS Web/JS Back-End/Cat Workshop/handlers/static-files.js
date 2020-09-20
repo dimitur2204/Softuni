@@ -1,18 +1,7 @@
 const url = require('url');
 const fs = require('fs');
 const path = require('path');
-const getType = (url) => {
-	if (url.endsWith('css')) {
-		return 'text/css';
-	} else if (url.endsWith('html')) {
-		return 'text/html';
-	} else if (url.endsWith('js')) {
-		return 'application/javascript';
-	} else if (url.endsWith('png')) {
-		return 'image/png';
-	}
-};
-
+const utils = require('../utils');
 module.exports = (req, res) => {
 	const pathname = url.parse(req.url).pathname;
 	fs.readFile(
@@ -27,7 +16,7 @@ module.exports = (req, res) => {
 				return;
 			}
 			res.writeHead(200, {
-				'Content-Type': getType(req.url),
+				'Content-Type': utils.getType(req.url),
 			});
 			res.end(data);
 		}
