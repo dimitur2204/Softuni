@@ -10,7 +10,7 @@ module.exports = (req, res) => {
 		pathname.toLowerCase().endsWith('jpg') ||
 		pathname.toLowerCase().endsWith('ico')
 	) {
-		fs.readFile(path.resolve('.' + pathname), (err, data) => {
+		fs.readFile(path.resolve('.' + decodeURI(pathname)), (err, data) => {
 			if (err) {
 				res.writeHead(404, {
 					'Content-Type': 'text-plain',

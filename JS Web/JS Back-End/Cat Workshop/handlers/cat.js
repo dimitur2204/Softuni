@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const qs = require('querystring');
 const formidable = require('formidable');
-const breeds = require('../data/breeds');
-const cats = require('../data/cats');
+let breeds = require('../data/breeds');
+let cats = require('../data/cats');
 
 module.exports = (req, res) => {
 	const pathname = url.parse(req.url).pathname;
@@ -105,7 +105,7 @@ module.exports = (req, res) => {
 				if (err) {
 					res.end('An error occurred1');
 				} else {
-					const breeds = JSON.parse(data);
+					breeds = JSON.parse(data);
 					breeds.push(formData.breed);
 					fs.writeFile(
 						'data/breeds.json',
@@ -135,7 +135,7 @@ module.exports = (req, res) => {
 					res.end(err.message);
 					return;
 				}
-				const cats = JSON.parse(data);
+				cats = JSON.parse(data);
 				const file = files.upload;
 				const cat = {
 					id: cats.length + 1,
@@ -179,15 +179,14 @@ module.exports = (req, res) => {
 		req.method.toUpperCase() === 'POST'
 	) {
 		const id = Number(pathname.split('/').pop());
-		let catss = cats;
-		catss.splice(id - 1, 1);
-		catss = cats.map((cat) => {
+		cats.splice(id - 1, 1);
+		cats = cats.map((cat) => {
 			cat.id = cats.indexOf(cat) + 1;
 			return cat;
 		});
 		fs.writeFile(
 			'data/cats.json',
-			JSON.stringify(catss),
+			JSON.stringify(cats),
 			{ encoding: 'utf-8' },
 			(err) => {
 				res.writeHead(301, { Location: '/' });
@@ -211,7 +210,7 @@ module.exports = (req, res) => {
 					res.end(err.message);
 					return;
 				}
-				const cats = JSON.parse(data);
+				cats = JSON.parse(data);
 				const file = files.image;
 				const currentCat = cats[id - 1];
 				const cat = {

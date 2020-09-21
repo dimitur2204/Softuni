@@ -1,5 +1,7 @@
 const fs = require('fs');
 const path = require('path');
+const { encode } = require('punycode');
+const { stringify } = require('querystring');
 
 module.exports = (req, res) => {
 	const filePath = path.resolve('./views/home/index.html');
