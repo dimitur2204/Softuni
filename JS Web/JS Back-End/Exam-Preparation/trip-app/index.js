@@ -2,9 +2,8 @@ var express = require("express");
 var cookieParser = require("cookie-parser");
 const handlebars = require("express-handlebars");
 const dotenv = require("dotenv").config();
-const path = require("path");
-var indexRouter = require("./routes/auth");
-var authRouter = require("./routes/index");
+const mongoose = require("mongoose");
+var indexRouter = require("./routes/index");
 
 var app = express();
 
@@ -19,6 +18,11 @@ const hbs = handlebars.create({
 	},
 });
 
+mongoose.connect(process.env.DB_CONNECTION_STRING, {
+	useNewUrlParser: true,
+	useUnifiedTopology: true,
+});
+
 app.engine(".hbs", hbs.engine);
 app.set("view engine", ".hbs");
 
@@ -27,7 +31,6 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static("public"));
 
-app.use(authRouter);
 app.use(indexRouter);
 
 // error handler
