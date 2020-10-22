@@ -34,8 +34,8 @@ const getRegister = (req, res) => {
 };
 
 const postRegister = async (req, res) => {
-	const { email, password, repeatPassword } = req.body;
-	if (password !== repeatPassword) {
+	const { email, password, rePassword } = req.body;
+	if (password !== rePassword) {
 		res
 			.status(401)
 			.redirect(`/register?error=true&message="Passwords do not match"`);
