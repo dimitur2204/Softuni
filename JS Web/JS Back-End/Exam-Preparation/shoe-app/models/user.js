@@ -31,15 +31,18 @@ userSchema.pre('save', function(next){
 });
 
 userSchema.statics.login = function(email,password){
-    const user = await this.findOne({email});
-    if (user) {
-       const auth = await bcrypt.compare(password,user.password);
-       if (auth) {
-           return user;
-       }
-       throw Error('Incorrect password');
-    }
-    throw Error('Incorrect email');
+    return this.findOne({email}).then(user => {
+        if (user) {
+            bcrypt.compare(password,user.password).then(auth => {
+                if (auth) {
+                    return user;
+                }
+                throw Error('Incorrect password');
+            });
+            return user;
+         }
+         throw Error('Incorrect email');
+    });
 }
 
 module.exports = mongoose.model('user',userSchema);

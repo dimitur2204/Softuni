@@ -19,16 +19,22 @@ const createPost = (req,res,next) => {
 }
 
 const detailsGet = (req,res) => {
-    res.render('details');
+    const id = req.params.id;
+    Shoe.findById(id).lean().then(shoe=>{
+        res.render('details',shoe);
+    })
 }
 
 const editGet = (req,res) => {
-    res.render('edit')
-    
+    const id = req.params.id;
+    Shoe.findById(id).lean().then(shoe=>{
+        res.render('edit',shoe);
+    })
 }
 
 module.exports = {
     createGet,
     detailsGet,
     editGet,
+    createPost
 }
