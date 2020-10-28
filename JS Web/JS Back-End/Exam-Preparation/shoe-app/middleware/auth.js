@@ -19,6 +19,27 @@ const requireAuth = (req, res, next) => {
     res.redirect('/login');
 }
 
+const requireCreator = (shouldBeCreator)=>{
+    if (shouldBeCreator) {
+        return (req,res,next) => {
+            const id = req.params.id;
+            if(res.locals.user._id === id){
+                next();
+                return;
+            }
+            res.redirect('/details/'+id);
+        }
+    }
+    return (req,res,next) => {
+        const id = req.params.id;
+        if(res.locals.user._id !== id){
+            next();
+            return;
+        }
+        res.redirect('/details/'+id);
+    }
+} 
+
 const checkUser = (req,res,next) => {
     const token = req.cookies.jwt;
 
@@ -41,4 +62,4 @@ const checkUser = (req,res,next) => {
     next();
 }
 
-module.exports = {requireAuth, checkUser};
+module.exports = {requireAuth, checkUser, requireCreator};
