@@ -36,9 +36,16 @@ const registerPost = (req,res,next) => {
     }).catch(next);
 }
 
+const logoutGet = (req,res) => {
+    res.cookie('jwt','',{maxAge:1});
+    res.locals.user = null;
+    res.redirect('/login');
+}
+
 module.exports = {
     loginGet,
     loginPost,
     registerGet,
-    registerPost
+    registerPost,
+    logoutGet
 }

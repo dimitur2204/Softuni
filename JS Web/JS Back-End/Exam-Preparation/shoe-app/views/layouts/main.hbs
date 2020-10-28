@@ -13,7 +13,9 @@
     <header>
         <nav>
             <ul>
+                {{#if user}}
                 <li><a href="/create">Create new offer</a></li>
+                {{/if}}
                 <li class="site-logo">Shoe</li>
                 <li>
                     <a href="/">
@@ -21,7 +23,9 @@
                     </a>
                 </li>
                 <li class="site-logo">Shelf</li>
-                <li>Welcome, user@user.com | <a href="">Logout</a></li>
+                 {{#if user}}
+                <li>Welcome, {{user.email}} | <a href="/logout">Logout</a></li>
+                {{/if}}
             </ul>
         </nav>
     </header>

@@ -1,22 +1,24 @@
 
     <main>
         <div class="offer-details">
-            <h1>{{brand}} {{name}}</h1>
+            <h1>{{shoe.brand}} {{shoe.name}}</h1>
             <div class="info">
-                <img src="{{imageUrl}}"
+                <img src="{{shoe.imageUrl}}"
                     alt="">
-                <div class="description">{{description}}
+                <div class="description">{{shoe.description}}
                     <br>
                     <br>
                     <p> <strong>Buyers:</strong> 156</p>
                     <br>
-                    <p class="price">${{price}}</p>
+                    <p class="price">${{shoe.price}}</p>
                 </div>
             </div>
             <div class="actions">
-                <a href="/edit/{{_id}}">Edit</a>
-                <a href="">Delete</a>
-                <!-- <a href="">Buy</a> -->
+                {{#if isCreator}}
+                <a href="/edit/{{shoe._id}}">Edit</a>
+                <a href="/delete/{{shoe._id}}">Delete</a>
+                {{/if}}
+                <a href="/buy/{{shoe._id}}">Buy</a>
                 <!-- <span>You bought it</span> -->
             </div>
         </div>

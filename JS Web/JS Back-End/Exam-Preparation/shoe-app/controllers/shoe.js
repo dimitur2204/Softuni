@@ -20,8 +20,10 @@ const createPost = (req,res,next) => {
 
 const detailsGet = (req,res) => {
     const id = req.params.id;
-    Shoe.findById(id).lean().then(shoe=>{
-        res.render('details',shoe);
+    
+    Shoe.findById(id).then(shoe=>{
+        const isCreator = res.locals.user._id.toString() === shoe.creatorId.toString();
+        res.render('details',{shoe,isCreator});
     })
 }
 
@@ -32,9 +34,19 @@ const editGet = (req,res) => {
     })
 }
 
+const editPost = (req,res) => {
+    const id = req.params.id;
+    const {name,price,description,imageUrl,brand} = req.body;
+    Shoe.findByIdAndUpdate(id,{name,price,description,imageUrl,brand}).then(shoe=>{
+        console.log(shoe);
+        res.redirect('/details/' + id);
+    })
+}
+
 module.exports = {
     createGet,
     detailsGet,
     editGet,
-    createPost
+    createPost,
+    editPost
 }
