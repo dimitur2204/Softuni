@@ -21,8 +21,4 @@ module.exports = (app) => {
 	app.use(cookieParser());
 	app.use(express.static('static'));
 	app.use(checkUser);
-
-	app.use((err,req,res,next) => {
-		res.send('In global handler');
-	})
 };

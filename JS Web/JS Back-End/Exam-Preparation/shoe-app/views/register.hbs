@@ -18,7 +18,9 @@
                 <input type="password" name="rePassword" placeholder="Re-password" value="{{body.rePassword}}">
             </div>
             <div>
-                <p class="message">{{err.message}}</p>
+                {{#each errors}}
+                <p class="message">{{msg}}</p>
+                {{/each}}
                 <button>Register</button>
             </div>
         </form>

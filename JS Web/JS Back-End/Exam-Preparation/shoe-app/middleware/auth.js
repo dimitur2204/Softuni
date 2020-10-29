@@ -1,42 +1,60 @@
 const jwt = require('jsonwebtoken');
 const User = require('../models/user');
+const Shoe = require('../models/shoe');
 
-const requireAuth = (req, res, next) => {
-    const token = req.cookies.jwt;
-
-    if (token) {
-        jwt.verify(token, process.env.JWT_SECRET, (err, decodedToken) => {
-            if (err) {
-                console.log(err.message);
-                res.redirect('/login');
+const requireAuth = (shouldRequireAuth) => {
+    if(shouldRequireAuth){
+        return (req, res, next) => {
+            const token = req.cookies.jwt;
+    
+            if (token) {
+                jwt.verify(token, process.env.JWT_SECRET, (err, decodedToken) => {
+                    if (err) {
+                        console.log(err.message);
+                        res.redirect('/login');
+                        return;
+                    }
+                    next();
+                });   
                 return;
             }
-            next();
-        });   
+            res.redirect('/login');
+            return;
+        }
+    }
+}
+
+const notLoggedIn = (req,res,next) => {
+    if(res.locals.user){
+        res.redirect('/');
         return;
     }
-
-    res.redirect('/login');
+    next()
 }
 
 const requireCreator = (shouldBeCreator)=>{
     if (shouldBeCreator) {
         return (req,res,next) => {
             const id = req.params.id;
-            if(res.locals.user._id === id){
-                next();
-                return;
-            }
-            res.redirect('/details/'+id);
+            Shoe.findById(id).then(shoe => {
+                if(res.locals.user._id.equals(shoe.creatorId)){
+                    next();
+                    return;
+                }
+                res.redirect('/details/'+id);
+            })
         }
     }
     return (req,res,next) => {
         const id = req.params.id;
-        if(res.locals.user._id !== id){
-            next();
+        Shoe.findById(id).then(shoe => {
+            if(!(res.locals.user._id.equals(shoe.creatorId))){
+                next();
+                return;
+            }
+            res.redirect('/details/'+id);
             return;
-        }
-        res.redirect('/details/'+id);
+        })
     }
 } 
 
@@ -62,4 +80,4 @@ const checkUser = (req,res,next) => {
     next();
 }
 
-module.exports = {requireAuth, checkUser, requireCreator};
+module.exports = {requireAuth, checkUser, requireCreator, notLoggedIn};

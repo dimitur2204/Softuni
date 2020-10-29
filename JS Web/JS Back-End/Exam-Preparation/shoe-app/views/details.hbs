@@ -14,10 +14,10 @@
                 </div>
             </div>
             <div class="actions">
-                {{#if isCreator}}
+                {{#unless isNotCreator}}
                 <a href="/edit/{{shoe._id}}">Edit</a>
                 <a href="/delete/{{shoe._id}}">Delete</a>
-                {{/if}}
+                {{/unless}}
 
                 {{#if showBuy}}
                 <a href="/buy/{{shoe._id}}">Buy</a>

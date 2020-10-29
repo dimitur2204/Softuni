@@ -18,6 +18,17 @@ mongoose.connect(connectionString, {
 	console.error(err);
 });
 
+app.use((err,req,res,next) => {
+	if (res.locals.errorViewName) {
+		console.log(err);
+		res.render(res.locals.errorViewName,{errors:err,body:req.body})
+		return;
+	}
+	res.status(500);
+	console.error(err);
+	res.send(err);
+})
+
 app.listen(
 	config.port,
 	console.log(`Listening on port ${config.port}! Now its up to you...`)

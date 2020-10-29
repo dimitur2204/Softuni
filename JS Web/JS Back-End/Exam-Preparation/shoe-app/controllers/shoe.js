@@ -1,4 +1,5 @@
 const Shoe = require('../models/shoe');
+const User = require('../models/user');
 
 const createGet = (req,res) => {
     res.render('create')
@@ -18,49 +19,51 @@ const createPost = (req,res,next) => {
        }).catch(next);
 }
 
-const detailsGet = (req,res) => {
+const detailsGet = (req,res,next) => {
     const id = req.params.id;
-    
     Shoe.findById(id).then(shoe=>{
         const user = res.locals.user;
-        const isNotCreator = user._id.toString() !== shoe.creatorId.toString();
-        const isNotBuyer = shoe.buyers.includes(b => b._id !== user._id);
+        const isNotCreator = !(user._id.equals(shoe.creatorId));
+        const isNotBuyer = !(shoe.buyers.filter(b => b._id.equals(user._id)).length);
         const showBuy = isNotBuyer && isNotCreator;
-        res.render('details',{shoe,showBuy});
-    })
+        res.render('details',{shoe,showBuy, isNotCreator});
+    }).catch(next)
 }
 
-const editGet = (req,res) => {
+const editGet = (req,res,next) => {
     const id = req.params.id;
     Shoe.findById(id).lean().then(shoe=>{
         res.render('edit',shoe);
-    })
+    }).catch(next)
 }
 
-const editPost = (req,res) => {
+const editPost = (req,res,next) => {
     const id = req.params.id;
     const {name,price,description,imageUrl,brand} = req.body;
     Shoe.findByIdAndUpdate(id,{name,price,description,imageUrl,brand}).then(shoe=>{
-        console.log(shoe);
         res.redirect('/details/' + id);
-    })
+    }).catch(next)
 }
 
-const deleteGet = (req,res) => {
+const deleteGet = (req,res,next) => {
     const id = req.params.id;
     Shoe.findByIdAndDelete(id).then(shoe => {
         res.redirect('/');
-    })
+    }).catch(next)
 }
 
-const buyGet = (req,res) => {
+const buyGet = (req,res,next) => {
     const id = req.params.id;
     const user = res.locals.user;
     Shoe.findByIdAndUpdate(id,{
         $addToSet: {buyers: user}
     }).then(shoe => {
+        User.findByIdAndUpdate(user._id,{
+            $addToSet: {shoes: shoe}
+        }).then(() => {
         res.redirect('/details/'+id);
-    })
+        })
+    }).catch(next)
 }
 
 module.exports = {

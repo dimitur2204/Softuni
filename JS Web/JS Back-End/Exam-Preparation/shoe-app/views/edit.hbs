@@ -19,6 +19,9 @@
                 <input type="text"  name="brand"  placeholder="Brand..." value="{{brand}}">
             </div>
             <div>
+                {{#each errors}}
+                <p class="message">{{msg}}</p>
+                {{/each}}
                 <button>Edit</button>
             </div>
         </form>

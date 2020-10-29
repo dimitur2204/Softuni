@@ -29,6 +29,9 @@ const registerGet = (_,res) => {
 
 const registerPost = (req,res,next) => {
     const {email,fullName,password,rePassword} = req.body;
+    if(password !== rePassword){
+        throw new Error('Passwords should match');
+    }
     User.create({email, fullName, password}).then(user => {
         const token = createToken(user._id);
         res.cookie('jwt',token, { httpOnly:true, maxAge: MAX_AGE_MINUTES * 60 * 1000});
@@ -42,10 +45,22 @@ const logoutGet = (req,res) => {
     res.redirect('/login');
 }
 
+const profileGet = (req,res,next) => {
+    const user = res.locals.user;
+    User.findById(user._id).populate('shoes').exec().then(user => {
+        const totalPrice = user.shoes.reduce((acc,curr) => {
+            acc += curr.price;
+            return acc;
+        },0)
+        res.render('profile',{user,totalPrice})
+    }).catch(next)
+}
+
 module.exports = {
     loginGet,
     loginPost,
     registerGet,
     registerPost,
-    logoutGet
+    logoutGet,
+    profileGet
 }

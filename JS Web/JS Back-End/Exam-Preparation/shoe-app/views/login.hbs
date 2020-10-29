@@ -6,14 +6,16 @@
         </p>
         <form action="/login" method="POST">
             <div>
-                <input type="email" name="email" placeholder="Email...">
+                <input type="email" name="email" placeholder="Email..." value="{{body.email}}">
             </div>
 
             <div>
-                <input type="password" name="password" placeholder="Password...">
+                <input type="password" name="password" placeholder="Password..." value="{{body.password}}">
             </div>
             <div>
-                <p class="message"></p>
+                {{#each errors}}
+                <p class="message">{{msg}}</p>
+                {{/each}}
                 <button>Login</button>
             </div>
         </form>
