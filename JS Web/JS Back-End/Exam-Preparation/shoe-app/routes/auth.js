@@ -3,7 +3,7 @@ const {loginGet,registerGet,registerPost,loginPost,logoutGet, profileGet} = requ
 const { requireAuth, notLoggedIn } = require('../middleware/auth');
 const handleValidationErrors = require('../middleware/handleValidationErrors');
 const setErrorViewName = require('../middleware/setErrorViewName');
-const { repeatPasswordCheck, checkEmailExists, passwordValidator, emailValidator } = require('../middleware/validators');
+const { repeatPasswordCheck, checkEmailExists, passwordValidator, emailValidator, checkPasswordCorrect, checkEmailCorrect } = require('../middleware/validators');
 
 router.get('/login',notLoggedIn,loginGet)
 router.get('/register',notLoggedIn,registerGet)
@@ -12,6 +12,8 @@ router.post('/login',notLoggedIn,
 setErrorViewName('login'),
 passwordValidator,
 emailValidator,
+checkPasswordCorrect,
+checkEmailCorrect,
 handleValidationErrors,loginPost)
 
 router.post('/register',

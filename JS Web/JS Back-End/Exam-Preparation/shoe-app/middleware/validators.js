@@ -1,6 +1,6 @@
 const validator = require('express-validator');
 const User = require('../models/user');
-
+const bcrypt = require('bcrypt');
 
 const repeatPasswordCheck = validator.body('rePassword').custom((value,{req}) => {
     if (value !== req.body.password) {
@@ -11,10 +11,27 @@ const repeatPasswordCheck = validator.body('rePassword').custom((value,{req}) =>
 
 const checkEmailExists = validator.body('email').custom((value, {req}) => {
     return User.findOne({email:value}).then(user => {
-        console.log(user);
         if(user){
             throw new Error('Email exists!')
         }
+    })
+})
+
+const checkEmailCorrect = validator.body('email').custom((value, {req}) => {
+    return User.findOne({email:value}).then(user => {
+        if(!user){
+            throw new Error('Incorrect email!')
+        }
+    })
+})
+
+const checkPasswordCorrect = validator.body('password').custom((value, {req}) => {
+    return User.findOne({email:req.body.email}).then(user => {
+        return bcrypt.compare(value,user.password).then(auth => {
+            if (!auth) {
+                throw new Error('Incorrect password!')
+            }
+        })
     })
 })
 const passwordValidator = validator.body('password')
@@ -51,5 +68,7 @@ module.exports = {
     priceValidator,
     imageValidator,
     checkEmailExists,
-    repeatPasswordCheck
+    repeatPasswordCheck,
+    checkEmailCorrect,
+    checkPasswordCorrect
 }

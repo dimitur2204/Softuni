@@ -42,16 +42,12 @@ userSchema.pre('save', function(next){
 
 userSchema.statics.login = function(email,password){
     return this.findOne({email}).then(user => {
-        if (user) {
-            bcrypt.compare(password,user.password).then(auth => {
+            return bcrypt.compare(password,user.password).then(auth => {
                 if (auth) {
                     return user;
                 }
-                throw Error('Incorrect password');
+                throw new Error('No such user');
             });
-            return user;
-         }
-         throw Error('Incorrect email');
     });
 }
 

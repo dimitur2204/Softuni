@@ -19,13 +19,12 @@ mongoose.connect(connectionString, {
 });
 
 app.use((err,req,res,next) => {
+	console.log(err);
 	if (res.locals.errorViewName) {
-		console.log(err);
 		res.render(res.locals.errorViewName,{errors:err,body:req.body})
 		return;
 	}
 	res.status(500);
-	console.error(err);
 	res.send(err);
 })
 
