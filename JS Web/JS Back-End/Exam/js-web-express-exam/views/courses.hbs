@@ -1,0 +1,23 @@
+
+            <h1 class="text-center">Courses</h1>
+            <section>
+                <a href="/create" class="btn btn-warning ">Create Course</a>
+                <form class="search float-right" action="" method="">
+                    <label>Search: </label>
+                    <input type="text" name="search">
+                    <input type="submit" class="btn btn-primary" value="Search">
+                </form>
+            </section>
+
+            <div class="container mt-3">
+                <div class="row ">
+                    <div class="card-deck d-flex justify-content-center">
+                        {{#each courses}}
+                            {{>course}}
+                        {{/each}}
+                    </div>
+                </div>
+            </div>
+            {{#unless courses.length}}
+            <h3 class="text-center">No courses...</h3>
+            {{/unless}}
